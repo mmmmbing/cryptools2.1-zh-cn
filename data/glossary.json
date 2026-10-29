@@ -1,0 +1,3084 @@
+{
+    "_comment":  "CrypTool 2 德译中 术语表。order=替换优先级（长词优先，避免子串误替换）。",
+    "version":  1,
+    "source_culture":  "de",
+    "target_culture":  "zh-CN",
+    "terms":  [
+                  {
+                      "de":  "ver-/entschlüsseln",
+                      "zh":  "加密/解密"
+                  },
+                  {
+                      "de":  "Ver-/Entschlüsselung",
+                      "zh":  "加密/解密"
+                  },
+                  {
+                      "de":  "verschlüsseln",
+                      "zh":  "加密"
+                  },
+                  {
+                      "de":  "entschlüsseln",
+                      "zh":  "解密"
+                  },
+                  {
+                      "de":  "Verschlüsselung",
+                      "zh":  "加密"
+                  },
+                  {
+                      "de":  "Entschlüsselung",
+                      "zh":  "解密"
+                  },
+                  {
+                      "de":  "Geheimtext",
+                      "zh":  "密文"
+                  },
+                  {
+                      "de":  "Klartext",
+                      "zh":  "明文"
+                  },
+                  {
+                      "de":  "Schlüssel",
+                      "zh":  "密钥"
+                  },
+                  {
+                      "de":  "Kennwort",
+                      "zh":  "密码"
+                  },
+                  {
+                      "de":  "Passwort",
+                      "zh":  "口令"
+                  },
+                  {
+                      "de":  "Chiffre",
+                      "zh":  "密码算法"
+                  },
+                  {
+                      "de":  "Chiffrierung",
+                      "zh":  "加密"
+                  },
+                  {
+                      "de":  "Dechiffrierung",
+                      "zh":  "解密"
+                  },
+                  {
+                      "de":  "Verfahren",
+                      "zh":  "算法"
+                  },
+                  {
+                      "de":  "Algorithmus",
+                      "zh":  "算法"
+                  },
+                  {
+                      "de":  "Komponente",
+                      "zh":  "组件"
+                  },
+                  {
+                      "de":  "Einstellungen",
+                      "zh":  "设置"
+                  },
+                  {
+                      "de":  "Einstellung",
+                      "zh":  "设置"
+                  },
+                  {
+                      "de":  "Werkzeug",
+                      "zh":  "工具"
+                  },
+                  {
+                      "de":  "Werkzeuge",
+                      "zh":  "工具"
+                  },
+                  {
+                      "de":  "Berechnung",
+                      "zh":  "计算"
+                  },
+                  {
+                      "de":  "berechnen",
+                      "zh":  "计算"
+                  },
+                  {
+                      "de":  "Ausgabe",
+                      "zh":  "输出"
+                  },
+                  {
+                      "de":  "Eingabe",
+                      "zh":  "输入"
+                  },
+                  {
+                      "de":  "Zufall",
+                      "zh":  "随机"
+                  },
+                  {
+                      "de":  "zufällig",
+                      "zh":  "随机"
+                  },
+                  {
+                      "de":  "Zufällige",
+                      "zh":  "随机"
+                  },
+                  {
+                      "de":  "Hashwert",
+                      "zh":  "哈希值"
+                  },
+                  {
+                      "de":  "Hashfunktion",
+                      "zh":  "哈希函数"
+                  },
+                  {
+                      "de":  "Signatur",
+                      "zh":  "签名"
+                  },
+                  {
+                      "de":  "Primzahl",
+                      "zh":  "素数"
+                  },
+                  {
+                      "de":  "Primzahlen",
+                      "zh":  "素数"
+                  },
+                  {
+                      "de":  "Faktorisierung",
+                      "zh":  "因数分解"
+                  },
+                  {
+                      "de":  "Modul",
+                      "zh":  "模数"
+                  },
+                  {
+                      "de":  "modulare",
+                      "zh":  "模"
+                  },
+                  {
+                      "de":  "Blockchiffre",
+                      "zh":  "分组密码"
+                  },
+                  {
+                      "de":  "Stromchiffre",
+                      "zh":  "流密码"
+                  },
+                  {
+                      "de":  "Bitfolge",
+                      "zh":  "位串"
+                  },
+                  {
+                      "de":  "Schlüssellänge",
+                      "zh":  "密钥长度"
+                  },
+                  {
+                      "de":  "Schlüsselraum",
+                      "zh":  "密钥空间"
+                  },
+                  {
+                      "de":  "Schlüsselgenerierung",
+                      "zh":  "密钥生成"
+                  },
+                  {
+                      "de":  "Schlüsselaustausch",
+                      "zh":  "密钥交换"
+                  },
+                  {
+                      "de":  "Asymmetrisch",
+                      "zh":  "非对称"
+                  },
+                  {
+                      "de":  "asymmetrisch",
+                      "zh":  "非对称"
+                  },
+                  {
+                      "de":  "Symmetrisch",
+                      "zh":  "对称"
+                  },
+                  {
+                      "de":  "symmetrisch",
+                      "zh":  "对称"
+                  },
+                  {
+                      "de":  "Öffentlicher Schlüssel",
+                      "zh":  "公钥"
+                  },
+                  {
+                      "de":  "Privater Schlüssel",
+                      "zh":  "私钥"
+                  },
+                  {
+                      "de":  "Zertifikat",
+                      "zh":  "证书"
+                  },
+                  {
+                      "de":  "Steganographie",
+                      "zh":  "隐写术"
+                  },
+                  {
+                      "de":  "Kryptographie",
+                      "zh":  "密码学"
+                  },
+                  {
+                      "de":  "Kryptoanalyse",
+                      "zh":  "密码分析"
+                  },
+                  {
+                      "de":  "Entropie",
+                      "zh":  "熵"
+                  },
+                  {
+                      "de":  "Häufigkeitsanalyse",
+                      "zh":  "频率分析"
+                  },
+                  {
+                      "de":  "Häufigkeit",
+                      "zh":  "频率"
+                  },
+                  {
+                      "de":  "Substitution",
+                      "zh":  "替换"
+                  },
+                  {
+                      "de":  "Permutation",
+                      "zh":  "置换"
+                  },
+                  {
+                      "de":  "Transposition",
+                      "zh":  "换位"
+                  },
+                  {
+                      "de":  "Dezimal",
+                      "zh":  "十进制"
+                  },
+                  {
+                      "de":  "Hexadezimal",
+                      "zh":  "十六进制"
+                  },
+                  {
+                      "de":  "Binär",
+                      "zh":  "二进制"
+                  },
+                  {
+                      "de":  "binär",
+                      "zh":  "二进制"
+                  },
+                  {
+                      "de":  "Datei",
+                      "zh":  "文件"
+                  },
+                  {
+                      "de":  "Dateien",
+                      "zh":  "文件"
+                  },
+                  {
+                      "de":  "Ordner",
+                      "zh":  "文件夹"
+                  },
+                  {
+                      "de":  "Verzeichnis",
+                      "zh":  "目录"
+                  },
+                  {
+                      "de":  "Pfad",
+                      "zh":  "路径"
+                  },
+                  {
+                      "de":  "Speichern",
+                      "zh":  "保存"
+                  },
+                  {
+                      "de":  "speichern",
+                      "zh":  "保存"
+                  },
+                  {
+                      "de":  "Laden",
+                      "zh":  "加载"
+                  },
+                  {
+                      "de":  "laden",
+                      "zh":  "加载"
+                  },
+                  {
+                      "de":  "Öffnen",
+                      "zh":  "打开"
+                  },
+                  {
+                      "de":  "öffnen",
+                      "zh":  "打开"
+                  },
+                  {
+                      "de":  "Schließen",
+                      "zh":  "关闭"
+                  },
+                  {
+                      "de":  "schließen",
+                      "zh":  "关闭"
+                  },
+                  {
+                      "de":  "Abbrechen",
+                      "zh":  "取消"
+                  },
+                  {
+                      "de":  "Zurücksetzen",
+                      "zh":  "重置"
+                  },
+                  {
+                      "de":  "zurücksetzen",
+                      "zh":  "重置"
+                  },
+                  {
+                      "de":  "Kopieren",
+                      "zh":  "复制"
+                  },
+                  {
+                      "de":  "kopieren",
+                      "zh":  "复制"
+                  },
+                  {
+                      "de":  "Einfügen",
+                      "zh":  "粘贴"
+                  },
+                  {
+                      "de":  "Löschen",
+                      "zh":  "删除"
+                  },
+                  {
+                      "de":  "löschen",
+                      "zh":  "删除"
+                  },
+                  {
+                      "de":  "Bearbeiten",
+                      "zh":  "编辑"
+                  },
+                  {
+                      "de":  "Ansicht",
+                      "zh":  "视图"
+                  },
+                  {
+                      "de":  "Hilfe",
+                      "zh":  "帮助"
+                  },
+                  {
+                      "de":  "Startseite",
+                      "zh":  "起始页"
+                  },
+                  {
+                      "de":  "Arbeitsbereich",
+                      "zh":  "工作区"
+                  },
+                  {
+                      "de":  "Vorlage",
+                      "zh":  "模板"
+                  },
+                  {
+                      "de":  "Vorlagen",
+                      "zh":  "模板"
+                  },
+                  {
+                      "de":  "Beispiel",
+                      "zh":  "示例"
+                  },
+                  {
+                      "de":  "Beispiele",
+                      "zh":  "示例"
+                  },
+                  {
+                      "de":  "Tutorial",
+                      "zh":  "教程"
+                  },
+                  {
+                      "de":  "Dokumentation",
+                      "zh":  "文档"
+                  },
+                  {
+                      "de":  "Beschreibung",
+                      "zh":  "说明"
+                  },
+                  {
+                      "de":  "Eigenschaften",
+                      "zh":  "属性"
+                  },
+                  {
+                      "de":  "Parameter",
+                      "zh":  "参数"
+                  },
+                  {
+                      "de":  "Ergebnis",
+                      "zh":  "结果"
+                  },
+                  {
+                      "de":  "Ergebnisse",
+                      "zh":  "结果"
+                  },
+                  {
+                      "de":  "Fehler",
+                      "zh":  "错误"
+                  },
+                  {
+                      "de":  "Warnung",
+                      "zh":  "警告"
+                  },
+                  {
+                      "de":  "Warnungen",
+                      "zh":  "警告"
+                  },
+                  {
+                      "de":  "Hinweis",
+                      "zh":  "提示"
+                  },
+                  {
+                      "de":  "Information",
+                      "zh":  "信息"
+                  },
+                  {
+                      "de":  "Meldung",
+                      "zh":  "消息"
+                  },
+                  {
+                      "de":  "Nachricht",
+                      "zh":  "消息"
+                  },
+                  {
+                      "de":  "Fenster",
+                      "zh":  "窗口"
+                  },
+                  {
+                      "de":  "Dialog",
+                      "zh":  "对话框"
+                  },
+                  {
+                      "de":  "Schaltfläche",
+                      "zh":  "按钮"
+                  },
+                  {
+                      "de":  "Registerkarte",
+                      "zh":  "选项卡"
+                  },
+                  {
+                      "de":  "Menü",
+                      "zh":  "菜单"
+                  },
+                  {
+                      "de":  "Symbolleiste",
+                      "zh":  "工具栏"
+                  },
+                  {
+                      "de":  "Statusleiste",
+                      "zh":  "状态栏"
+                  },
+                  {
+                      "de":  "Liste",
+                      "zh":  "列表"
+                  },
+                  {
+                      "de":  "Auswahl",
+                      "zh":  "选择"
+                  },
+                  {
+                      "de":  "auswählen",
+                      "zh":  "选择"
+                  },
+                  {
+                      "de":  "Wählen",
+                      "zh":  "选择"
+                  },
+                  {
+                      "de":  "wählen",
+                      "zh":  "选择"
+                  },
+                  {
+                      "de":  "aktivieren",
+                      "zh":  "启用"
+                  },
+                  {
+                      "de":  "deaktivieren",
+                      "zh":  "禁用"
+                  },
+                  {
+                      "de":  "Aktiviert",
+                      "zh":  "已启用"
+                  },
+                  {
+                      "de":  "Deaktiviert",
+                      "zh":  "已禁用"
+                  },
+                  {
+                      "de":  "Standard",
+                      "zh":  "默认"
+                  },
+                  {
+                      "de":  "Standardeinstellungen",
+                      "zh":  "默认设置"
+                  },
+                  {
+                      "de":  "benutzerdefiniert",
+                      "zh":  "自定义"
+                  },
+                  {
+                      "de":  "Größe",
+                      "zh":  "大小"
+                  },
+                  {
+                      "de":  "Länge",
+                      "zh":  "长度"
+                  },
+                  {
+                      "de":  "Breite",
+                      "zh":  "宽度"
+                  },
+                  {
+                      "de":  "Höhe",
+                      "zh":  "高度"
+                  },
+                  {
+                      "de":  "Zeit",
+                      "zh":  "时间"
+                  },
+                  {
+                      "de":  "Zeitintervall",
+                      "zh":  "时间间隔"
+                  },
+                  {
+                      "de":  "Sekunden",
+                      "zh":  "秒"
+                  },
+                  {
+                      "de":  "Minuten",
+                      "zh":  "分钟"
+                  },
+                  {
+                      "de":  "Stunde",
+                      "zh":  "小时"
+                  },
+                  {
+                      "de":  "Datum",
+                      "zh":  "日期"
+                  },
+                  {
+                      "de":  "Version",
+                      "zh":  "版本"
+                  },
+                  {
+                      "de":  "Aktualisierung",
+                      "zh":  "更新"
+                  },
+                  {
+                      "de":  "aktualisieren",
+                      "zh":  "更新"
+                  },
+                  {
+                      "de":  "Installation",
+                      "zh":  "安装"
+                  },
+                  {
+                      "de":  "installieren",
+                      "zh":  "安装"
+                  },
+                  {
+                      "de":  "deinstallieren",
+                      "zh":  "卸载"
+                  },
+                  {
+                      "de":  "Netzwerk",
+                      "zh":  "网络"
+                  },
+                  {
+                      "de":  "Verbindung",
+                      "zh":  "连接"
+                  },
+                  {
+                      "de":  "Server",
+                      "zh":  "服务器"
+                  },
+                  {
+                      "de":  "Client",
+                      "zh":  "客户端"
+                  },
+                  {
+                      "de":  "Adresse",
+                      "zh":  "地址"
+                  },
+                  {
+                      "de":  "Port",
+                      "zh":  "端口"
+                  },
+                  {
+                      "de":  "Text",
+                      "zh":  "文本"
+                  },
+                  {
+                      "de":  "Zeichen",
+                      "zh":  "字符"
+                  },
+                  {
+                      "de":  "Zeichenkette",
+                      "zh":  "字符串"
+                  },
+                  {
+                      "de":  "Wort",
+                      "zh":  "词"
+                  },
+                  {
+                      "de":  "Wörter",
+                      "zh":  "词"
+                  },
+                  {
+                      "de":  "Satz",
+                      "zh":  "句子"
+                  },
+                  {
+                      "de":  "Zeile",
+                      "zh":  "行"
+                  },
+                  {
+                      "de":  "Spalte",
+                      "zh":  "列"
+                  },
+                  {
+                      "de":  "Tabelle",
+                      "zh":  "表格"
+                  },
+                  {
+                      "de":  "Diagramm",
+                      "zh":  "图表"
+                  },
+                  {
+                      "de":  "Graph",
+                      "zh":  "图"
+                  },
+                  {
+                      "de":  "Bild",
+                      "zh":  "图像"
+                  },
+                  {
+                      "de":  "Bilder",
+                      "zh":  "图像"
+                  },
+                  {
+                      "de":  "Ton",
+                      "zh":  "声音"
+                  },
+                  {
+                      "de":  "Video",
+                      "zh":  "视频"
+                  },
+                  {
+                      "de":  "Farbe",
+                      "zh":  "颜色"
+                  },
+                  {
+                      "de":  "Schriftart",
+                      "zh":  "字体"
+                  },
+                  {
+                      "de":  "Schriftgröße",
+                      "zh":  "字号"
+                  },
+                  {
+                      "de":  "Editor",
+                      "zh":  "编辑器"
+                  },
+                  {
+                      "de":  "Hex-Editor",
+                      "zh":  "十六进制编辑器"
+                  },
+                  {
+                      "de":  "Zwischenablage",
+                      "zh":  "剪贴板"
+                  },
+                  {
+                      "de":  "Rückgängig",
+                      "zh":  "撤销"
+                  },
+                  {
+                      "de":  "Wiederholen",
+                      "zh":  "重做"
+                  },
+                  {
+                      "de":  "Suchen",
+                      "zh":  "查找"
+                  },
+                  {
+                      "de":  "Ersetzen",
+                      "zh":  "替换"
+                  },
+                  {
+                      "de":  "Filter",
+                      "zh":  "筛选"
+                  },
+                  {
+                      "de":  "Sortieren",
+                      "zh":  "排序"
+                  },
+                  {
+                      "de":  "Exportieren",
+                      "zh":  "导出"
+                  },
+                  {
+                      "de":  "Importieren",
+                      "zh":  "导入"
+                  },
+                  {
+                      "de":  "Drucken",
+                      "zh":  "打印"
+                  },
+                  {
+                      "de":  "Beenden",
+                      "zh":  "退出"
+                  },
+                  {
+                      "de":  "Neu",
+                      "zh":  "新建"
+                  },
+                  {
+                      "de":  "Weiter",
+                      "zh":  "下一步"
+                  },
+                  {
+                      "de":  "Zurück",
+                      "zh":  "上一步"
+                  },
+                  {
+                      "de":  "Fertig",
+                      "zh":  "完成"
+                  },
+                  {
+                      "de":  "Ja",
+                      "zh":  "是"
+                  },
+                  {
+                      "de":  "Nein",
+                      "zh":  "否"
+                  },
+                  {
+                      "de":  "OK",
+                      "zh":  "确定"
+                  },
+                  {
+                      "de":  "Keine",
+                      "zh":  "无"
+                  },
+                  {
+                      "de":  "Alle",
+                      "zh":  "全部"
+                  },
+                  {
+                      "de":  "Aktiv",
+                      "zh":  "活动"
+                  },
+                  {
+                      "de":  "Passiv",
+                      "zh":  "被动"
+                  },
+                  {
+                      "de":  "Sicherheit",
+                      "zh":  "安全"
+                  },
+                  {
+                      "de":  "Sicher",
+                      "zh":  "安全"
+                  },
+                  {
+                      "de":  "Unsicher",
+                      "zh":  "不安全"
+                  },
+                  {
+                      "de":  "Zufallszahl",
+                      "zh":  "随机数"
+                  },
+                  {
+                      "de":  "Zufallszahlen",
+                      "zh":  "随机数"
+                  },
+                  {
+                      "de":  "Stichprobe",
+                      "zh":  "样本"
+                  },
+                  {
+                      "de":  "Statistik",
+                      "zh":  "统计"
+                  },
+                  {
+                      "de":  "Wahrscheinlichkeit",
+                      "zh":  "概率"
+                  },
+                  {
+                      "de":  "Prozent",
+                      "zh":  "百分比"
+                  },
+                  {
+                      "de":  "Anzahl",
+                      "zh":  "数量"
+                  },
+                  {
+                      "de":  "Summe",
+                      "zh":  "总和"
+                  },
+                  {
+                      "de":  "Mittelwert",
+                      "zh":  "平均值"
+                  },
+                  {
+                      "de":  "Ganzzahl",
+                      "zh":  "整数"
+                  },
+                  {
+                      "de":  "Kommazahl",
+                      "zh":  "浮点数"
+                  },
+                  {
+                      "de":  "Wert",
+                      "zh":  "值"
+                  },
+                  {
+                      "de":  "Werte",
+                      "zh":  "值"
+                  },
+                  {
+                      "de":  "Variable",
+                      "zh":  "变量"
+                  },
+                  {
+                      "de":  "Array",
+                      "zh":  "数组"
+                  },
+                  {
+                      "de":  "Element",
+                      "zh":  "元素"
+                  },
+                  {
+                      "de":  "Feld",
+                      "zh":  "字段"
+                  },
+                  {
+                      "de":  "Funktion",
+                      "zh":  "函数"
+                  },
+                  {
+                      "de":  "Methode",
+                      "zh":  "方法"
+                  },
+                  {
+                      "de":  "Klasse",
+                      "zh":  "类"
+                  },
+                  {
+                      "de":  "Objekt",
+                      "zh":  "对象"
+                  },
+                  {
+                      "de":  "Ereignis",
+                      "zh":  "事件"
+                  },
+                  {
+                      "de":  "Ausnahme",
+                      "zh":  "异常"
+                  },
+                  {
+                      "de":  "Protokoll",
+                      "zh":  "日志"
+                  },
+                  {
+                      "de":  "Logdatei",
+                      "zh":  "日志文件"
+                  },
+                  {
+                      "de":  "Darstellung",
+                      "zh":  "显示"
+                  },
+                  {
+                      "de":  "anzeigen",
+                      "zh":  "显示"
+                  },
+                  {
+                      "de":  "Anzeige",
+                      "zh":  "显示"
+                  },
+                  {
+                      "de":  "verstecken",
+                      "zh":  "隐藏"
+                  },
+                  {
+                      "de":  "Verstecke",
+                      "zh":  "隐藏"
+                  },
+                  {
+                      "de":  "ausblenden",
+                      "zh":  "隐藏"
+                  },
+                  {
+                      "de":  "einblenden",
+                      "zh":  "显示"
+                  },
+                  {
+                      "de":  "Aktualisieren",
+                      "zh":  "刷新"
+                  },
+                  {
+                      "de":  "Laufzeit",
+                      "zh":  "运行时间"
+                  },
+                  {
+                      "de":  "Ausführung",
+                      "zh":  "执行"
+                  },
+                  {
+                      "de":  "ausführen",
+                      "zh":  "执行"
+                  },
+                  {
+                      "de":  "Starten",
+                      "zh":  "启动"
+                  },
+                  {
+                      "de":  "starten",
+                      "zh":  "启动"
+                  },
+                  {
+                      "de":  "Stoppen",
+                      "zh":  "停止"
+                  },
+                  {
+                      "de":  "stoppen",
+                      "zh":  "停止"
+                  },
+                  {
+                      "de":  "Pause",
+                      "zh":  "暂停"
+                  },
+                  {
+                      "de":  "Fortsetzen",
+                      "zh":  "继续"
+                  },
+                  {
+                      "de":  "Warten",
+                      "zh":  "等待"
+                  },
+                  {
+                      "de":  "Fertig",
+                      "zh":  "就绪"
+                  },
+                  {
+                      "de":  "Bereit",
+                      "zh":  "就绪"
+                  },
+                  {
+                      "de":  "Läuft",
+                      "zh":  "运行中"
+                  },
+                  {
+                      "de":  "Abgeschlossen",
+                      "zh":  "已完成"
+                  },
+                  {
+                      "de":  "Fehlgeschlagen",
+                      "zh":  "失败"
+                  },
+                  {
+                      "de":  "Erfolgreich",
+                      "zh":  "成功"
+                  },
+                  {
+                      "de":  "Erfolg",
+                      "zh":  "成功"
+                  },
+                  {
+                      "de":  "Test",
+                      "zh":  "测试"
+                  },
+                  {
+                      "de":  "Prüfen",
+                      "zh":  "检查"
+                  },
+                  {
+                      "de":  "prüfen",
+                      "zh":  "检查"
+                  },
+                  {
+                      "de":  "Überprüfung",
+                      "zh":  "验证"
+                  },
+                  {
+                      "de":  "Analysieren",
+                      "zh":  "分析"
+                  },
+                  {
+                      "de":  "analysieren",
+                      "zh":  "分析"
+                  },
+                  {
+                      "de":  "Analyse",
+                      "zh":  "分析"
+                  },
+                  {
+                      "de":  "Vergleich",
+                      "zh":  "比较"
+                  },
+                  {
+                      "de":  "vergleichen",
+                      "zh":  "比较"
+                  },
+                  {
+                      "de":  "Kombination",
+                      "zh":  "组合"
+                  },
+                  {
+                      "de":  "kombinieren",
+                      "zh":  "组合"
+                  },
+                  {
+                      "de":  "Sequenz",
+                      "zh":  "序列"
+                  },
+                  {
+                      "de":  "Schritt",
+                      "zh":  "步骤"
+                  },
+                  {
+                      "de":  "Schritte",
+                      "zh":  "步骤"
+                  },
+                  {
+                      "de":  "Aufgabe",
+                      "zh":  "任务"
+                  },
+                  {
+                      "de":  "Aufgaben",
+                      "zh":  "任务"
+                  },
+                  {
+                      "de":  "Projekt",
+                      "zh":  "项目"
+                  },
+                  {
+                      "de":  "Benutzer",
+                      "zh":  "用户"
+                  },
+                  {
+                      "de":  "Benutzerdefiniert",
+                      "zh":  "自定义"
+                  },
+                  {
+                      "de":  "Konto",
+                      "zh":  "账户"
+                  },
+                  {
+                      "de":  "Berechtigung",
+                      "zh":  "权限"
+                  },
+                  {
+                      "de":  "Zugriff",
+                      "zh":  "访问"
+                  },
+                  {
+                      "de":  "Lizenz",
+                      "zh":  "许可证"
+                  },
+                  {
+                      "de":  "Copyright",
+                      "zh":  "版权"
+                  },
+                  {
+                      "de":  "Quelle",
+                      "zh":  "源代码"
+                  },
+                  {
+                      "de":  "Quellcode",
+                      "zh":  "源代码"
+                  },
+                  {
+                      "de":  "Ziel",
+                      "zh":  "目标"
+                  },
+                  {
+                      "de":  "Zielordner",
+                      "zh":  "目标文件夹"
+                  },
+                  {
+                      "de":  "Testdaten",
+                      "zh":  "测试数据"
+                  },
+                  {
+                      "de":  "Schlüsseldatei",
+                      "zh":  "密钥文件"
+                  },
+                  {
+                      "de":  "Prüfsumme",
+                      "zh":  "校验和"
+                  },
+                  {
+                      "de":  "Parität",
+                      "zh":  "奇偶校验"
+                  },
+                  {
+                      "de":  "Kodierung",
+                      "zh":  "编码"
+                  },
+                  {
+                      "de":  "kodieren",
+                      "zh":  "编码"
+                  },
+                  {
+                      "de":  "Dekodierung",
+                      "zh":  "解码"
+                  },
+                  {
+                      "de":  "dekodieren",
+                      "zh":  "解码"
+                  },
+                  {
+                      "de":  "Komprimierung",
+                      "zh":  "压缩"
+                  },
+                  {
+                      "de":  "komprimieren",
+                      "zh":  "压缩"
+                  },
+                  {
+                      "de":  "Dekomprimierung",
+                      "zh":  "解压缩"
+                  },
+                  {
+                      "de":  "dekomprimieren",
+                      "zh":  "解压缩"
+                  },
+                  {
+                      "de":  "Übertragung",
+                      "zh":  "传输"
+                  },
+                  {
+                      "de":  "übertragen",
+                      "zh":  "传输"
+                  },
+                  {
+                      "de":  "Empfänger",
+                      "zh":  "接收方"
+                  },
+                  {
+                      "de":  "Sender",
+                      "zh":  "发送方"
+                  },
+                  {
+                      "de":  "Nachrichtenaustausch",
+                      "zh":  "消息交换"
+                  },
+                  {
+                      "de":  "Angreifer",
+                      "zh":  "攻击者"
+                  },
+                  {
+                      "de":  "Angriff",
+                      "zh":  "攻击"
+                  },
+                  {
+                      "de":  "Sicherheitslücke",
+                      "zh":  "安全漏洞"
+                  },
+                  {
+                      "de":  "Schwachstelle",
+                      "zh":  "弱点"
+                  },
+                  {
+                      "de":  "Brechen",
+                      "zh":  "破解"
+                  },
+                  {
+                      "de":  "brechen",
+                      "zh":  "破解"
+                  },
+                  {
+                      "de":  "gebrochen",
+                      "zh":  "已破解"
+                  },
+                  {
+                      "de":  "Entropiequelle",
+                      "zh":  "熵源"
+                  },
+                  {
+                      "de":  "Schlüsselstrom",
+                      "zh":  "密钥流"
+                  },
+                  {
+                      "de":  "Initialisierungsvektor",
+                      "zh":  "初始化向量"
+                  },
+                  {
+                      "de":  "Rundenschlüssel",
+                      "zh":  "轮密钥"
+                  },
+                  {
+                      "de":  "Runde",
+                      "zh":  "轮"
+                  },
+                  {
+                      "de":  "Runden",
+                      "zh":  "轮"
+                  },
+                  {
+                      "de":  "S-Box",
+                      "zh":  "S盒"
+                  },
+                  {
+                      "de":  "Feistel",
+                      "zh":  "Feistel"
+                  },
+                  {
+                      "de":  "Nachrichtenblock",
+                      "zh":  "消息块"
+                  },
+                  {
+                      "de":  "Auffüllung",
+                      "zh":  "填充"
+                  },
+                  {
+                      "de":  "Padding",
+                      "zh":  "填充"
+                  },
+                  {
+                      "de":  "Verkettung",
+                      "zh":  "链接"
+                  },
+                  {
+                      "de":  "Kette",
+                      "zh":  "链"
+                  },
+                  {
+                      "de":  "Modus",
+                      "zh":  "模式"
+                  },
+                  {
+                      "de":  "Betriebsart",
+                      "zh":  "工作模式"
+                  },
+                  {
+                      "de":  "Betriebsmodus",
+                      "zh":  "工作模式"
+                  },
+                  {
+                      "de":  "Elliptische Kurve",
+                      "zh":  "椭圆曲线"
+                  },
+                  {
+                      "de":  "elliptische Kurven",
+                      "zh":  "椭圆曲线"
+                  },
+                  {
+                      "de":  "Diskreter Logarithmus",
+                      "zh":  "离散对数"
+                  },
+                  {
+                      "de":  "Quadratic Sieve",
+                      "zh":  "二次筛法"
+                  },
+                  {
+                      "de":  "Quadratisches Sieb",
+                      "zh":  "二次筛法"
+                  },
+                  {
+                      "de":  "Gitterbasisreduktion",
+                      "zh":  "格基约化"
+                  },
+                  {
+                      "de":  "Kryptosystem",
+                      "zh":  "密码系统"
+                  },
+                  {
+                      "de":  "Kryptosysteme",
+                      "zh":  "密码系统"
+                  },
+                  {
+                      "de":  "Schlüsselaustauschverfahren",
+                      "zh":  "密钥交换算法"
+                  },
+                  {
+                      "de":  "Einwegfunktion",
+                      "zh":  "单向函数"
+                  },
+                  {
+                      "de":  "Falltürfunktion",
+                      "zh":  "陷门函数"
+                  },
+                  {
+                      "de":  "Kollision",
+                      "zh":  "碰撞"
+                  },
+                  {
+                      "de":  "Kollisionsresistenz",
+                      "zh":  "抗碰撞性"
+                  },
+                  {
+                      "de":  "Geburtstagsparadoxon",
+                      "zh":  "生日悖论"
+                  },
+                  {
+                      "de":  "Salz",
+                      "zh":  "盐值"
+                  },
+                  {
+                      "de":  "Passwortableitung",
+                      "zh":  "口令派生"
+                  },
+                  {
+                      "de":  "Schlüsselableitung",
+                      "zh":  "密钥派生"
+                  },
+                  {
+                      "de":  "Wörterbuchangriff",
+                      "zh":  "字典攻击"
+                  },
+                  {
+                      "de":  "Brute-Force",
+                      "zh":  "暴力破解"
+                  },
+                  {
+                      "de":  "Laufzeitangriff",
+                      "zh":  "时序攻击"
+                  },
+                  {
+                      "de":  "Seitenkanal",
+                      "zh":  "侧信道"
+                  },
+                  {
+                      "de":  "Seitenkanalangriff",
+                      "zh":  "侧信道攻击"
+                  },
+                  {
+                      "de":  "Quantencomputer",
+                      "zh":  "量子计算机"
+                  },
+                  {
+                      "de":  "Post-Quanten",
+                      "zh":  "后量子"
+                  },
+                  {
+                      "de":  "Visualisierung",
+                      "zh":  "可视化"
+                  },
+                  {
+                      "de":  "visualisieren",
+                      "zh":  "可视化"
+                  },
+                  {
+                      "de":  "Präsentation",
+                      "zh":  "演示"
+                  },
+                  {
+                      "de":  "Folie",
+                      "zh":  "幻灯片"
+                  },
+                  {
+                      "de":  "Abschnitt",
+                      "zh":  "章节"
+                  },
+                  {
+                      "de":  "Kapitel",
+                      "zh":  "章节"
+                  },
+                  {
+                      "de":  "Inhalt",
+                      "zh":  "内容"
+                  },
+                  {
+                      "de":  "Übersicht",
+                      "zh":  "概述"
+                  },
+                  {
+                      "de":  "Einführung",
+                      "zh":  "简介"
+                  },
+                  {
+                      "de":  "Zusammenfassung",
+                      "zh":  "摘要"
+                  },
+                  {
+                      "de":  "Anhang",
+                      "zh":  "附录"
+                  },
+                  {
+                      "de":  "Index",
+                      "zh":  "索引"
+                  },
+                  {
+                      "de":  "Glossar",
+                      "zh":  "术语表"
+                  },
+                  {
+                      "de":  "Literatur",
+                      "zh":  "参考文献"
+                  },
+                  {
+                      "de":  "Quellen",
+                      "zh":  "来源"
+                  },
+                  {
+                      "de":  "Link",
+                      "zh":  "链接"
+                  },
+                  {
+                      "de":  "Verweis",
+                      "zh":  "引用"
+                  },
+                  {
+                      "de":  "Referenz",
+                      "zh":  "参考"
+                  },
+                  {
+                      "de":  "Beispiel",
+                      "zh":  "示例"
+                  },
+                  {
+                      "de":  "Aufgabe",
+                      "zh":  "习题"
+                  },
+                  {
+                      "de":  "Lösung",
+                      "zh":  "解答"
+                  },
+                  {
+                      "de":  "Frage",
+                      "zh":  "问题"
+                  },
+                  {
+                      "de":  "Antwort",
+                      "zh":  "答案"
+                  },
+                  {
+                      "de":  "Hinweis",
+                      "zh":  "提示"
+                  },
+                  {
+                      "de":  "Tipp",
+                      "zh":  "技巧"
+                  },
+                  {
+                      "de":  "Achtung",
+                      "zh":  "注意"
+                  },
+                  {
+                      "de":  "Wichtig",
+                      "zh":  "重要"
+                  },
+                  {
+                      "de":  "Bemerkung",
+                      "zh":  "备注"
+                  },
+                  {
+                      "de":  "Anmerkung",
+                      "zh":  "注释"
+                  },
+                  {
+                      "de":  "Kommentar",
+                      "zh":  "注释"
+                  },
+                  {
+                      "de":  "Beschriftung",
+                      "zh":  "标签"
+                  },
+                  {
+                      "de":  "Titel",
+                      "zh":  "标题"
+                  },
+                  {
+                      "de":  "Untertitel",
+                      "zh":  "副标题"
+                  },
+                  {
+                      "de":  "Kopfzeile",
+                      "zh":  "页眉"
+                  },
+                  {
+                      "de":  "Fußzeile",
+                      "zh":  "页脚"
+                  },
+                  {
+                      "de":  "Seite",
+                      "zh":  "页面"
+                  },
+                  {
+                      "de":  "Seiten",
+                      "zh":  "页面"
+                  },
+                  {
+                      "de":  "Druckvorschau",
+                      "zh":  "打印预览"
+                  },
+                  {
+                      "de":  "Eigenschaft",
+                      "zh":  "属性"
+                  },
+                  {
+                      "de":  "Option",
+                      "zh":  "选项"
+                  },
+                  {
+                      "de":  "Optionen",
+                      "zh":  "选项"
+                  },
+                  {
+                      "de":  "Erweitert",
+                      "zh":  "高级"
+                  },
+                  {
+                      "de":  "Allgemein",
+                      "zh":  "常规"
+                  },
+                  {
+                      "de":  "Sicherheit",
+                      "zh":  "安全"
+                  },
+                  {
+                      "de":  "Datenschutz",
+                      "zh":  "隐私"
+                  },
+                  {
+                      "de":  "Barrierefreiheit",
+                      "zh":  "辅助功能"
+                  },
+                  {
+                      "de":  "Sprache",
+                      "zh":  "语言"
+                  },
+                  {
+                      "de":  "Deutsch",
+                      "zh":  "德语"
+                  },
+                  {
+                      "de":  "Englisch",
+                      "zh":  "英语"
+                  },
+                  {
+                      "de":  "Chinesisch",
+                      "zh":  "中文"
+                  },
+                  {
+                      "de":  "Land",
+                      "zh":  "国家"
+                  },
+                  {
+                      "de":  "Region",
+                      "zh":  "区域"
+                  },
+                  {
+                      "de":  "Zeitzone",
+                      "zh":  "时区"
+                  },
+                  {
+                      "de":  "Währung",
+                      "zh":  "货币"
+                  },
+                  {
+                      "de":  "Einheit",
+                      "zh":  "单位"
+                  },
+                  {
+                      "de":  "Maßeinheit",
+                      "zh":  "计量单位"
+                  },
+                  {
+                      "de":  "Winkel",
+                      "zh":  "角度"
+                  },
+                  {
+                      "de":  "Grad",
+                      "zh":  "度"
+                  },
+                  {
+                      "de":  "Radius",
+                      "zh":  "半径"
+                  },
+                  {
+                      "de":  "Durchmesser",
+                      "zh":  "直径"
+                  },
+                  {
+                      "de":  "Fläche",
+                      "zh":  "面积"
+                  },
+                  {
+                      "de":  "Volumen",
+                      "zh":  "体积"
+                  },
+                  {
+                      "de":  "Gewicht",
+                      "zh":  "重量"
+                  },
+                  {
+                      "de":  "Geschwindigkeit",
+                      "zh":  "速度"
+                  },
+                  {
+                      "de":  "Temperatur",
+                      "zh":  "温度"
+                  },
+                  {
+                      "de":  "Druck",
+                      "zh":  "压力"
+                  },
+                  {
+                      "de":  "Energie",
+                      "zh":  "能量"
+                  },
+                  {
+                      "de":  "Leistung",
+                      "zh":  "性能"
+                  },
+                  {
+                      "de":  "Speicher",
+                      "zh":  "内存"
+                  },
+                  {
+                      "de":  "Prozessor",
+                      "zh":  "处理器"
+                  },
+                  {
+                      "de":  "Kern",
+                      "zh":  "核心"
+                  },
+                  {
+                      "de":  "Thread",
+                      "zh":  "线程"
+                  },
+                  {
+                      "de":  "Prozess",
+                      "zh":  "进程"
+                  },
+                  {
+                      "de":  "Dienst",
+                      "zh":  "服务"
+                  },
+                  {
+                      "de":  "Registrierung",
+                      "zh":  "注册"
+                  },
+                  {
+                      "de":  "Konfiguration",
+                      "zh":  "配置"
+                  },
+                  {
+                      "de":  "konfigurieren",
+                      "zh":  "配置"
+                  },
+                  {
+                      "de":  "System",
+                      "zh":  "系统"
+                  },
+                  {
+                      "de":  "Umgebung",
+                      "zh":  "环境"
+                  },
+                  {
+                      "de":  "Plattform",
+                      "zh":  "平台"
+                  },
+                  {
+                      "de":  "Anwendung",
+                      "zh":  "应用程序"
+                  },
+                  {
+                      "de":  "Anwendungen",
+                      "zh":  "应用程序"
+                  },
+                  {
+                      "de":  "Programm",
+                      "zh":  "程序"
+                  },
+                  {
+                      "de":  "Software",
+                      "zh":  "软件"
+                  },
+                  {
+                      "de":  "Hardware",
+                      "zh":  "硬件"
+                  },
+                  {
+                      "de":  "Computer",
+                      "zh":  "计算机"
+                  },
+                  {
+                      "de":  "Rechner",
+                      "zh":  "计算机"
+                  },
+                  {
+                      "de":  "Bildschirm",
+                      "zh":  "屏幕"
+                  },
+                  {
+                      "de":  "Monitor",
+                      "zh":  "显示器"
+                  },
+                  {
+                      "de":  "Tastatur",
+                      "zh":  "键盘"
+                  },
+                  {
+                      "de":  "Maus",
+                      "zh":  "鼠标"
+                  },
+                  {
+                      "de":  "Klick",
+                      "zh":  "点击"
+                  },
+                  {
+                      "de":  "klicken",
+                      "zh":  "点击"
+                  },
+                  {
+                      "de":  "Doppelklick",
+                      "zh":  "双击"
+                  },
+                  {
+                      "de":  "Rechtsklick",
+                      "zh":  "右键点击"
+                  },
+                  {
+                      "de":  "Ziehen",
+                      "zh":  "拖动"
+                  },
+                  {
+                      "de":  "Ablegen",
+                      "zh":  "放置"
+                  },
+                  {
+                      "de":  "Loslassen",
+                      "zh":  "释放"
+                  },
+                  {
+                      "de":  "Eingabetaste",
+                      "zh":  "回车键"
+                  },
+                  {
+                      "de":  "Tabulatortaste",
+                      "zh":  "制表键"
+                  },
+                  {
+                      "de":  "Esc-Taste",
+                      "zh":  "Esc 键"
+                  },
+                  {
+                      "de":  "Tastenkürzel",
+                      "zh":  "快捷键"
+                  },
+                  {
+                      "de":  "Tastenkombination",
+                      "zh":  "组合键"
+                  },
+                  {
+                      "de":  "Symbole",
+                      "zh":  "符号"
+                  },
+                  {
+                      "de":  "Sonderzeichen",
+                      "zh":  "特殊字符"
+                  },
+                  {
+                      "de":  "Leerzeichen",
+                      "zh":  "空格"
+                  },
+                  {
+                      "de":  "Zeilenumbruch",
+                      "zh":  "换行符"
+                  },
+                  {
+                      "de":  "Trennzeichen",
+                      "zh":  "分隔符"
+                  },
+                  {
+                      "de":  "Formatierung",
+                      "zh":  "格式"
+                  },
+                  {
+                      "de":  "formatieren",
+                      "zh":  "格式化"
+                  },
+                  {
+                      "de":  "Stil",
+                      "zh":  "样式"
+                  },
+                  {
+                      "de":  "Design",
+                      "zh":  "设计"
+                  },
+                  {
+                      "de":  "Layout",
+                      "zh":  "布局"
+                  },
+                  {
+                      "de":  "Skalierung",
+                      "zh":  "缩放"
+                  },
+                  {
+                      "de":  "Zoom",
+                      "zh":  "缩放"
+                  },
+                  {
+                      "de":  "Transparenz",
+                      "zh":  "透明度"
+                  },
+                  {
+                      "de":  "Deckkraft",
+                      "zh":  "不透明度"
+                  },
+                  {
+                      "de":  "Kontrast",
+                      "zh":  "对比度"
+                  },
+                  {
+                      "de":  "Helligkeit",
+                      "zh":  "亮度"
+                  },
+                  {
+                      "de":  "Sättigung",
+                      "zh":  "饱和度"
+                  },
+                  {
+                      "de":  "Farbton",
+                      "zh":  "色调"
+                  },
+                  {
+                      "de":  "Effekt",
+                      "zh":  "效果"
+                  },
+                  {
+                      "de":  "Effekte",
+                      "zh":  "效果"
+                  },
+                  {
+                      "de":  "Animation",
+                      "zh":  "动画"
+                  },
+                  {
+                      "de":  "Übergang",
+                      "zh":  "过渡"
+                  },
+                  {
+                      "de":  "Dauer",
+                      "zh":  "持续时间"
+                  },
+                  {
+                      "de":  "Verzögerung",
+                      "zh":  "延迟"
+                  },
+                  {
+                      "de":  "Wiederholung",
+                      "zh":  "重复"
+                  },
+                  {
+                      "de":  "Schleife",
+                      "zh":  "循环"
+                  },
+                  {
+                      "de":  "Bedingung",
+                      "zh":  "条件"
+                  },
+                  {
+                      "de":  "Aktion",
+                      "zh":  "操作"
+                  },
+                  {
+                      "de":  "Aktionen",
+                      "zh":  "操作"
+                  },
+                  {
+                      "de":  "Operation",
+                      "zh":  "运算"
+                  },
+                  {
+                      "de":  "Operator",
+                      "zh":  "运算符"
+                  },
+                  {
+                      "de":  "Ausdruck",
+                      "zh":  "表达式"
+                  },
+                  {
+                      "de":  "Anweisung",
+                      "zh":  "语句"
+                  },
+                  {
+                      "de":  "Befehl",
+                      "zh":  "命令"
+                  },
+                  {
+                      "de":  "Befehle",
+                      "zh":  "命令"
+                  },
+                  {
+                      "de":  "Syntax",
+                      "zh":  "语法"
+                  },
+                  {
+                      "de":  "Semantik",
+                      "zh":  "语义"
+                  },
+                  {
+                      "de":  "Compiler",
+                      "zh":  "编译器"
+                  },
+                  {
+                      "de":  "Interpreter",
+                      "zh":  "解释器"
+                  },
+                  {
+                      "de":  "Skript",
+                      "zh":  "脚本"
+                  },
+                  {
+                      "de":  "Modul",
+                      "zh":  "模块"
+                  },
+                  {
+                      "de":  "Bibliothek",
+                      "zh":  "库"
+                  },
+                  {
+                      "de":  "Paket",
+                      "zh":  "包"
+                  },
+                  {
+                      "de":  "Abhängigkeit",
+                      "zh":  "依赖项"
+                  },
+                  {
+                      "de":  "Schnittstelle",
+                      "zh":  "接口"
+                  },
+                  {
+                      "de":  "API",
+                      "zh":  "API"
+                  },
+                  {
+                      "de":  "Framework",
+                      "zh":  "框架"
+                  },
+                  {
+                      "de":  "Assembly",
+                      "zh":  "程序集"
+                  },
+                  {
+                      "de":  "Namespace",
+                      "zh":  "命名空间"
+                  },
+                  {
+                      "de":  "Attribut",
+                      "zh":  "特性"
+                  },
+                  {
+                      "de":  "Annotation",
+                      "zh":  "注解"
+                  },
+                  {
+                      "de":  "Dokument",
+                      "zh":  "文档"
+                  },
+                  {
+                      "de":  "Dokumente",
+                      "zh":  "文档"
+                  },
+                  {
+                      "de":  "Bericht",
+                      "zh":  "报告"
+                  },
+                  {
+                      "de":  "Berichte",
+                      "zh":  "报告"
+                  },
+                  {
+                      "de":  "Zusammenfassung",
+                      "zh":  "汇总"
+                  },
+                  {
+                      "de":  "Details",
+                      "zh":  "详情"
+                  },
+                  {
+                      "de":  "Detail",
+                      "zh":  "详情"
+                  },
+                  {
+                      "de":  "Mehr",
+                      "zh":  "更多"
+                  },
+                  {
+                      "de":  "Weniger",
+                      "zh":  "更少"
+                  },
+                  {
+                      "de":  "Alle auswählen",
+                      "zh":  "全选"
+                  },
+                  {
+                      "de":  "Auswahl aufheben",
+                      "zh":  "取消选择"
+                  },
+                  {
+                      "de":  "Auswahl invertieren",
+                      "zh":  "反选"
+                  },
+                  {
+                      "de":  "Hinzufügen",
+                      "zh":  "添加"
+                  },
+                  {
+                      "de":  "hinzufügen",
+                      "zh":  "添加"
+                  },
+                  {
+                      "de":  "Entfernen",
+                      "zh":  "移除"
+                  },
+                  {
+                      "de":  "entfernen",
+                      "zh":  "移除"
+                  },
+                  {
+                      "de":  "Bearbeiten",
+                      "zh":  "修改"
+                  },
+                  {
+                      "de":  "Ändern",
+                      "zh":  "更改"
+                  },
+                  {
+                      "de":  "ändern",
+                      "zh":  "更改"
+                  },
+                  {
+                      "de":  "Umbenennen",
+                      "zh":  "重命名"
+                  },
+                  {
+                      "de":  "umbenennen",
+                      "zh":  "重命名"
+                  },
+                  {
+                      "de":  "Verschieben",
+                      "zh":  "移动"
+                  },
+                  {
+                      "de":  "verschieben",
+                      "zh":  "移动"
+                  },
+                  {
+                      "de":  "Duplizieren",
+                      "zh":  "复制"
+                  },
+                  {
+                      "de":  "Einfügen",
+                      "zh":  "插入"
+                  },
+                  {
+                      "de":  "Anhängen",
+                      "zh":  "追加"
+                  },
+                  {
+                      "de":  "anfügen",
+                      "zh":  "追加"
+                  },
+                  {
+                      "de":  "Ersetzen",
+                      "zh":  "替换"
+                  },
+                  {
+                      "de":  "ersetzen",
+                      "zh":  "替换"
+                  },
+                  {
+                      "de":  "Suchen",
+                      "zh":  "搜索"
+                  },
+                  {
+                      "de":  "suchen",
+                      "zh":  "搜索"
+                  },
+                  {
+                      "de":  "Finden",
+                      "zh":  "查找"
+                  },
+                  {
+                      "de":  "finden",
+                      "zh":  "查找"
+                  },
+                  {
+                      "de":  "Filter",
+                      "zh":  "过滤器"
+                  },
+                  {
+                      "de":  "filtern",
+                      "zh":  "过滤"
+                  },
+                  {
+                      "de":  "Sortierung",
+                      "zh":  "排序"
+                  },
+                  {
+                      "de":  "aufsteigend",
+                      "zh":  "升序"
+                  },
+                  {
+                      "de":  "absteigend",
+                      "zh":  "降序"
+                  },
+                  {
+                      "de":  "Zeilen",
+                      "zh":  "行"
+                  },
+                  {
+                      "de":  "Spalten",
+                      "zh":  "列"
+                  },
+                  {
+                      "de":  "Zelle",
+                      "zh":  "单元格"
+                  },
+                  {
+                      "de":  "Zellen",
+                      "zh":  "单元格"
+                  },
+                  {
+                      "de":  "Kopf",
+                      "zh":  "头部"
+                  },
+                  {
+                      "de":  "Fuß",
+                      "zh":  "底部"
+                  },
+                  {
+                      "de":  "Mitte",
+                      "zh":  "中间"
+                  },
+                  {
+                      "de":  "Oben",
+                      "zh":  "上方"
+                  },
+                  {
+                      "de":  "Unten",
+                      "zh":  "下方"
+                  },
+                  {
+                      "de":  "Links",
+                      "zh":  "左侧"
+                  },
+                  {
+                      "de":  "Rechts",
+                      "zh":  "右侧"
+                  },
+                  {
+                      "de":  "Vorne",
+                      "zh":  "前面"
+                  },
+                  {
+                      "de":  "Hinten",
+                      "zh":  "后面"
+                  },
+                  {
+                      "de":  "Anfang",
+                      "zh":  "开始"
+                  },
+                  {
+                      "de":  "Ende",
+                      "zh":  "结束"
+                  },
+                  {
+                      "de":  "Erste",
+                      "zh":  "第一个"
+                  },
+                  {
+                      "de":  "Letzte",
+                      "zh":  "最后一个"
+                  },
+                  {
+                      "de":  "Nächste",
+                      "zh":  "下一个"
+                  },
+                  {
+                      "de":  "Vorherige",
+                      "zh":  "上一个"
+                  },
+                  {
+                      "de":  "Aktuelle",
+                      "zh":  "当前"
+                  },
+                  {
+                      "de":  "Neu",
+                      "zh":  "新建"
+                  },
+                  {
+                      "de":  "Alt",
+                      "zh":  "旧"
+                  },
+                  {
+                      "de":  "Groß",
+                      "zh":  "大"
+                  },
+                  {
+                      "de":  "Klein",
+                      "zh":  "小"
+                  },
+                  {
+                      "de":  "Mittel",
+                      "zh":  "中"
+                  },
+                  {
+                      "de":  "Lang",
+                      "zh":  "长"
+                  },
+                  {
+                      "de":  "Kurz",
+                      "zh":  "短"
+                  },
+                  {
+                      "de":  "Schnell",
+                      "zh":  "快速"
+                  },
+                  {
+                      "de":  "Langsam",
+                      "zh":  "慢速"
+                  },
+                  {
+                      "de":  "Einfach",
+                      "zh":  "简单"
+                  },
+                  {
+                      "de":  "Schwierig",
+                      "zh":  "困难"
+                  },
+                  {
+                      "de":  "Leicht",
+                      "zh":  "容易"
+                  },
+                  {
+                      "de":  "Komplex",
+                      "zh":  "复杂"
+                  },
+                  {
+                      "de":  "Erweitert",
+                      "zh":  "高级"
+                  },
+                  {
+                      "de":  "Basis",
+                      "zh":  "基础"
+                  },
+                  {
+                      "de":  "Grundlage",
+                      "zh":  "基础"
+                  },
+                  {
+                      "de":  "Grundlagen",
+                      "zh":  "基础知识"
+                  },
+                  {
+                      "de":  "Fortgeschritten",
+                      "zh":  "进阶"
+                  },
+                  {
+                      "de":  "Experte",
+                      "zh":  "专家"
+                  },
+                  {
+                      "de":  "Anfänger",
+                      "zh":  "初学者"
+                  },
+                  {
+                      "de":  "Schüler",
+                      "zh":  "学生"
+                  },
+                  {
+                      "de":  "Lehrer",
+                      "zh":  "教师"
+                  },
+                  {
+                      "de":  "Student",
+                      "zh":  "学生"
+                  },
+                  {
+                      "de":  "Professor",
+                      "zh":  "教授"
+                  },
+                  {
+                      "de":  "Universität",
+                      "zh":  "大学"
+                  },
+                  {
+                      "de":  "Schule",
+                      "zh":  "学校"
+                  },
+                  {
+                      "de":  "Kurs",
+                      "zh":  "课程"
+                  },
+                  {
+                      "de":  "Unterricht",
+                      "zh":  "教学"
+                  },
+                  {
+                      "de":  "Lernen",
+                      "zh":  "学习"
+                  },
+                  {
+                      "de":  "lernen",
+                      "zh":  "学习"
+                  },
+                  {
+                      "de":  "Lehren",
+                      "zh":  "教学"
+                  },
+                  {
+                      "de":  "Wissen",
+                      "zh":  "知识"
+                  },
+                  {
+                      "de":  "Verständnis",
+                      "zh":  "理解"
+                  },
+                  {
+                      "de":  "Erklärung",
+                      "zh":  "说明"
+                  },
+                  {
+                      "de":  "erklären",
+                      "zh":  "解释"
+                  },
+                  {
+                      "de":  "Beschreibung",
+                      "zh":  "描述"
+                  },
+                  {
+                      "de":  "beschreiben",
+                      "zh":  "描述"
+                  },
+                  {
+                      "de":  "Achterbahn",
+                      "zh":  "Achterbahn"
+                  },
+                  {
+                      "de":  "Achterbahn-80",
+                      "zh":  "Achterbahn-80"
+                  },
+                  {
+                      "de":  "Achterbahn-128",
+                      "zh":  "Achterbahn-128"
+                  },
+                  {
+                      "de":  "Twofish",
+                      "zh":  "Twofish"
+                  },
+                  {
+                      "de":  "RSA",
+                      "zh":  "RSA"
+                  },
+                  {
+                      "de":  "AES",
+                      "zh":  "AES"
+                  },
+                  {
+                      "de":  "DES",
+                      "zh":  "DES"
+                  },
+                  {
+                      "de":  "3DES",
+                      "zh":  "3DES"
+                  },
+                  {
+                      "de":  "Blowfish",
+                      "zh":  "Blowfish"
+                  },
+                  {
+                      "de":  "RC4",
+                      "zh":  "RC4"
+                  },
+                  {
+                      "de":  "RC5",
+                      "zh":  "RC5"
+                  },
+                  {
+                      "de":  "MD5",
+                      "zh":  "MD5"
+                  },
+                  {
+                      "de":  "SHA-1",
+                      "zh":  "SHA-1"
+                  },
+                  {
+                      "de":  "SHA-256",
+                      "zh":  "SHA-256"
+                  },
+                  {
+                      "de":  "SHA-512",
+                      "zh":  "SHA-512"
+                  },
+                  {
+                      "de":  "ECDSA",
+                      "zh":  "ECDSA"
+                  },
+                  {
+                      "de":  "Diffie-Hellman",
+                      "zh":  "Diffie-Hellman"
+                  },
+                  {
+                      "de":  "ElGamal",
+                      "zh":  "ElGamal"
+                  },
+                  {
+                      "de":  "Rijndael",
+                      "zh":  "Rijndael"
+                  },
+                  {
+                      "de":  "Serpent",
+                      "zh":  "Serpent"
+                  },
+                  {
+                      "de":  "MARS",
+                      "zh":  "MARS"
+                  },
+                  {
+                      "de":  "RC6",
+                      "zh":  "RC6"
+                  },
+                  {
+                      "de":  "IDEA",
+                      "zh":  "IDEA"
+                  },
+                  {
+                      "de":  "CAST",
+                      "zh":  "CAST"
+                  },
+                  {
+                      "de":  "Skipjack",
+                      "zh":  "Skipjack"
+                  },
+                  {
+                      "de":  "TEA",
+                      "zh":  "TEA"
+                  },
+                  {
+                      "de":  "XTEA",
+                      "zh":  "XTEA"
+                  },
+                  {
+                      "de":  "Rabbit",
+                      "zh":  "Rabbit"
+                  },
+                  {
+                      "de":  "Salsa20",
+                      "zh":  "Salsa20"
+                  },
+                  {
+                      "de":  "ChaCha20",
+                      "zh":  "ChaCha20"
+                  },
+                  {
+                      "de":  "McEliece",
+                      "zh":  "McEliece"
+                  },
+                  {
+                      "de":  "NTRU",
+                      "zh":  "NTRU"
+                  },
+                  {
+                      "de":  "LWE",
+                      "zh":  "LWE"
+                  },
+                  {
+                      "de":  "GGH",
+                      "zh":  "GGH"
+                  },
+                  {
+                      "de":  "NTRUEncrypt",
+                      "zh":  "NTRUEncrypt"
+                  },
+                  {
+                      "de":  "Kyber",
+                      "zh":  "Kyber"
+                  },
+                  {
+                      "de":  "Dilithium",
+                      "zh":  "Dilithium"
+                  },
+                  {
+                      "de":  "Vigenère",
+                      "zh":  "Vigenère"
+                  },
+                  {
+                      "de":  "Caesar",
+                      "zh":  "Caesar"
+                  },
+                  {
+                      "de":  "Playfair",
+                      "zh":  "Playfair"
+                  },
+                  {
+                      "de":  "Hill",
+                      "zh":  "Hill"
+                  },
+                  {
+                      "de":  "Enigma",
+                      "zh":  "Enigma"
+                  },
+                  {
+                      "de":  "Bifid",
+                      "zh":  "Bifid"
+                  },
+                  {
+                      "de":  "ADFGVX",
+                      "zh":  "ADFGVX"
+                  },
+                  {
+                      "de":  "Polybius",
+                      "zh":  "Polybius"
+                  },
+                  {
+                      "de":  "eSTREAM",
+                      "zh":  "eSTREAM"
+                  },
+                  {
+                      "de":  "NIST",
+                      "zh":  "NIST"
+                  },
+                  {
+                      "de":  "PKCS",
+                      "zh":  "PKCS"
+                  },
+                  {
+                      "de":  "OAEP",
+                      "zh":  "OAEP"
+                  },
+                  {
+                      "de":  "CBC",
+                      "zh":  "CBC"
+                  },
+                  {
+                      "de":  "ECB",
+                      "zh":  "ECB"
+                  },
+                  {
+                      "de":  "CFB",
+                      "zh":  "CFB"
+                  },
+                  {
+                      "de":  "OFB",
+                      "zh":  "OFB"
+                  },
+                  {
+                      "de":  "CTR",
+                      "zh":  "CTR"
+                  },
+                  {
+                      "de":  "GCM",
+                      "zh":  "GCM"
+                  },
+                  {
+                      "de":  "HMAC",
+                      "zh":  "HMAC"
+                  },
+                  {
+                      "de":  "PBKDF2",
+                      "zh":  "PBKDF2"
+                  },
+                  {
+                      "de":  "bcrypt",
+                      "zh":  "bcrypt"
+                  },
+                  {
+                      "de":  "scrypt",
+                      "zh":  "scrypt"
+                  },
+                  {
+                      "de":  "Argon2",
+                      "zh":  "Argon2"
+                  },
+                  {
+                      "de":  "Base64",
+                      "zh":  "Base64"
+                  },
+                  {
+                      "de":  "ASCII",
+                      "zh":  "ASCII"
+                  },
+                  {
+                      "de":  "UTF-8",
+                      "zh":  "UTF-8"
+                  },
+                  {
+                      "de":  "Unicode",
+                      "zh":  "Unicode"
+                  },
+                  {
+                      "de":  "Windows",
+                      "zh":  "Windows"
+                  },
+                  {
+                      "de":  "Linux",
+                      "zh":  "Linux"
+                  },
+                  {
+                      "de":  "macOS",
+                      "zh":  "macOS"
+                  },
+                  {
+                      "de":  "CrypTool",
+                      "zh":  "CrypTool"
+                  },
+                  {
+                      "de":  "CrypTool 2",
+                      "zh":  "CrypTool 2"
+                  },
+                  {
+                      "de":  "Wikipedia",
+                      "zh":  "Wikipedia"
+                  },
+                  {
+                      "de":  "Google",
+                      "zh":  "Google"
+                  },
+                  {
+                      "de":  "OpenSSL",
+                      "zh":  "OpenSSL"
+                  },
+                  {
+                      "de":  "Java",
+                      "zh":  "Java"
+                  },
+                  {
+                      "de":  "Python",
+                      "zh":  "Python"
+                  },
+                  {
+                      "de":  "C#",
+                      "zh":  "C#"
+                  },
+                  {
+                      "de":  "C++",
+                      "zh":  "C++"
+                  },
+                  {
+                      "de":  "X.509",
+                      "zh":  "X.509"
+                  },
+                  {
+                      "de":  "PGP",
+                      "zh":  "PGP"
+                  },
+                  {
+                      "de":  "GnuPG",
+                      "zh":  "GnuPG"
+                  },
+                  {
+                      "de":  "SSL",
+                      "zh":  "SSL"
+                  },
+                  {
+                      "de":  "TLS",
+                      "zh":  "TLS"
+                  },
+                  {
+                      "de":  "SSH",
+                      "zh":  "SSH"
+                  },
+                  {
+                      "de":  "IPSec",
+                      "zh":  "IPSec"
+                  },
+                  {
+                      "de":  "Kerberos",
+                      "zh":  "Kerberos"
+                  },
+                  {
+                      "de":  "LDAP",
+                      "zh":  "LDAP"
+                  },
+                  {
+                      "de":  "S/MIME",
+                      "zh":  "S/MIME"
+                  },
+                  {
+                      "de":  "XML",
+                      "zh":  "XML"
+                  },
+                  {
+                      "de":  "JSON",
+                      "zh":  "JSON"
+                  },
+                  {
+                      "de":  "HTML",
+                      "zh":  "HTML"
+                  },
+                  {
+                      "de":  "CSS",
+                      "zh":  "CSS"
+                  },
+                  {
+                      "de":  "SQL",
+                      "zh":  "SQL"
+                  },
+                  {
+                      "de":  "PDF",
+                      "zh":  "PDF"
+                  },
+                  {
+                      "de":  "ZIP",
+                      "zh":  "ZIP"
+                  },
+                  {
+                      "de":  "RAR",
+                      "zh":  "RAR"
+                  },
+                  {
+                      "de":  "USB",
+                      "zh":  "USB"
+                  },
+                  {
+                      "de":  "CPU",
+                      "zh":  "CPU"
+                  },
+                  {
+                      "de":  "GPU",
+                      "zh":  "GPU"
+                  },
+                  {
+                      "de":  "RAM",
+                      "zh":  "RAM"
+                  },
+                  {
+                      "de":  "HDD",
+                      "zh":  "HDD"
+                  },
+                  {
+                      "de":  "SSD",
+                      "zh":  "SSD"
+                  },
+                  {
+                      "de":  "BIOS",
+                      "zh":  "BIOS"
+                  },
+                  {
+                      "de":  "UEFI",
+                      "zh":  "UEFI"
+                  },
+                  {
+                      "de":  "MBR",
+                      "zh":  "MBR"
+                  },
+                  {
+                      "de":  "GPT",
+                      "zh":  "GPT"
+                  },
+                  {
+                      "de":  "IPv4",
+                      "zh":  "IPv4"
+                  },
+                  {
+                      "de":  "IPv6",
+                      "zh":  "IPv6"
+                  },
+                  {
+                      "de":  "TCP",
+                      "zh":  "TCP"
+                  },
+                  {
+                      "de":  "UDP",
+                      "zh":  "UDP"
+                  },
+                  {
+                      "de":  "HTTP",
+                      "zh":  "HTTP"
+                  },
+                  {
+                      "de":  "HTTPS",
+                      "zh":  "HTTPS"
+                  },
+                  {
+                      "de":  "FTP",
+                      "zh":  "FTP"
+                  },
+                  {
+                      "de":  "SMTP",
+                      "zh":  "SMTP"
+                  },
+                  {
+                      "de":  "POP3",
+                      "zh":  "POP3"
+                  },
+                  {
+                      "de":  "IMAP",
+                      "zh":  "IMAP"
+                  },
+                  {
+                      "de":  "DNS",
+                      "zh":  "DNS"
+                  },
+                  {
+                      "de":  "DHCP",
+                      "zh":  "DHCP"
+                  },
+                  {
+                      "de":  "LAN",
+                      "zh":  "LAN"
+                  },
+                  {
+                      "de":  "WAN",
+                      "zh":  "WAN"
+                  },
+                  {
+                      "de":  "VPN",
+                      "zh":  "VPN"
+                  },
+                  {
+                      "de":  "Wi-Fi",
+                      "zh":  "Wi-Fi"
+                  },
+                  {
+                      "de":  "SIM",
+                      "zh":  "SIM"
+                  },
+                  {
+                      "de":  "PIN",
+                      "zh":  "PIN"
+                  },
+                  {
+                      "de":  "TAN",
+                      "zh":  "TAN"
+                  },
+                  {
+                      "de":  "OTP",
+                      "zh":  "OTP"
+                  },
+                  {
+                      "de":  "TOTP",
+                      "zh":  "TOTP"
+                  },
+                  {
+                      "de":  "HOTP",
+                      "zh":  "HOTP"
+                  },
+                  {
+                      "de":  "CRC",
+                      "zh":  "CRC"
+                  },
+                  {
+                      "de":  "UUID",
+                      "zh":  "UUID"
+                  },
+                  {
+                      "de":  "GUID",
+                      "zh":  "GUID"
+                  },
+                  {
+                      "de":  "MD4",
+                      "zh":  "MD4"
+                  },
+                  {
+                      "de":  "RIPEMD",
+                      "zh":  "RIPEMD"
+                  },
+                  {
+                      "de":  "Whirlpool",
+                      "zh":  "Whirlpool"
+                  },
+                  {
+                      "de":  "Tiger",
+                      "zh":  "Tiger"
+                  },
+                  {
+                      "de":  "HAVAL",
+                      "zh":  "HAVAL"
+                  },
+                  {
+                      "de":  "BLAKE",
+                      "zh":  "BLAKE"
+                  },
+                  {
+                      "de":  "Keccak",
+                      "zh":  "Keccak"
+                  },
+                  {
+                      "de":  "Sponge",
+                      "zh":  "Sponge"
+                  },
+                  {
+                      "de":  "Merkle",
+                      "zh":  "Merkle"
+                  },
+                  {
+                      "de":  "Damgård",
+                      "zh":  "Damgård"
+                  },
+                  {
+                      "de":  "SubBytes",
+                      "zh":  "SubBytes"
+                  },
+                  {
+                      "de":  "ShiftRows",
+                      "zh":  "ShiftRows"
+                  },
+                  {
+                      "de":  "MixColumns",
+                      "zh":  "MixColumns"
+                  },
+                  {
+                      "de":  "AddRoundKey",
+                      "zh":  "AddRoundKey"
+                  },
+                  {
+                      "de":  "Lai-Massey",
+                      "zh":  "Lai-Massey"
+                  },
+                  {
+                      "de":  "Schneier",
+                      "zh":  "Schneier"
+                  },
+                  {
+                      "de":  "Koblitz",
+                      "zh":  "Koblitz"
+                  },
+                  {
+                      "de":  "Menezes",
+                      "zh":  "Menezes"
+                  },
+                  {
+                      "de":  "Vanstone",
+                      "zh":  "Vanstone"
+                  },
+                  {
+                      "de":  "Shamir",
+                      "zh":  "Shamir"
+                  },
+                  {
+                      "de":  "Rivest",
+                      "zh":  "Rivest"
+                  },
+                  {
+                      "de":  "Adleman",
+                      "zh":  "Adleman"
+                  },
+                  {
+                      "de":  "Hellman",
+                      "zh":  "Hellman"
+                  },
+                  {
+                      "de":  "Merkle-Damgård",
+                      "zh":  "Merkle-Damgård"
+                  },
+                  {
+                      "de":  "Zero-Knowledge",
+                      "zh":  "Zero-Knowledge"
+                  },
+                  {
+                      "de":  "Zero-Knowledge-Proof",
+                      "zh":  "Zero-Knowledge-Proof"
+                  },
+                  {
+                      "de":  "Buchberger",
+                      "zh":  "Buchberger"
+                  },
+                  {
+                      "de":  "Lenstra",
+                      "zh":  "Lenstra"
+                  },
+                  {
+                      "de":  "Pollard",
+                      "zh":  "Pollard"
+                  },
+                  {
+                      "de":  "Rho",
+                      "zh":  "Rho"
+                  },
+                  {
+                      "de":  "NFS",
+                      "zh":  "NFS"
+                  },
+                  {
+                      "de":  "GNFS",
+                      "zh":  "GNFS"
+                  },
+                  {
+                      "de":  "SNFS",
+                      "zh":  "SNFS"
+                  },
+                  {
+                      "de":  "QS",
+                      "zh":  "QS"
+                  },
+                  {
+                      "de":  "MPQS",
+                      "zh":  "MPQS"
+                  },
+                  {
+                      "de":  "SQS",
+                      "zh":  "SQS"
+                  },
+                  {
+                      "de":  "ECM",
+                      "zh":  "ECM"
+                  },
+                  {
+                      "de":  "Coppersmith",
+                      "zh":  "Coppersmith"
+                  },
+                  {
+                      "de":  "Wiener",
+                      "zh":  "Wiener"
+                  },
+                  {
+                      "de":  "Håstad",
+                      "zh":  "Håstad"
+                  },
+                  {
+                      "de":  "Bleichenbacher",
+                      "zh":  "Bleichenbacher"
+                  },
+                  {
+                      "de":  "Bellcore",
+                      "zh":  "Bellcore"
+                  },
+                  {
+                      "de":  "Fault",
+                      "zh":  "Fault"
+                  },
+                  {
+                      "de":  "Pohlig",
+                      "zh":  "Pohlig"
+                  },
+                  {
+                      "de":  "Baby-Step",
+                      "zh":  "Baby-Step"
+                  },
+                  {
+                      "de":  "Giant-Step",
+                      "zh":  "Giant-Step"
+                  },
+                  {
+                      "de":  "Shanks",
+                      "zh":  "Shanks"
+                  },
+                  {
+                      "de":  "Silver",
+                      "zh":  "Silver"
+                  },
+                  {
+                      "de":  "Pohlig-Hellman",
+                      "zh":  "Pohlig-Hellman"
+                  },
+                  {
+                      "de":  "Kasiski",
+                      "zh":  "Kasiski"
+                  },
+                  {
+                      "de":  "Friedman",
+                      "zh":  "Friedman"
+                  },
+                  {
+                      "de":  "Coincidence",
+                      "zh":  "Coincidence"
+                  },
+                  {
+                      "de":  "Babbage",
+                      "zh":  "Babbage"
+                  },
+                  {
+                      "de":  "Kerckhoffs",
+                      "zh":  "Kerckhoffs"
+                  },
+                  {
+                      "de":  "Shannon",
+                      "zh":  "Shannon"
+                  },
+                  {
+                      "de":  "Diffie",
+                      "zh":  "Diffie"
+                  }
+              ]
+}

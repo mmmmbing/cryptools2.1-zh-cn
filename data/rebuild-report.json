@@ -1,0 +1,1451 @@
+[
+    {
+        "assembly":  "Achterbahn.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  14,
+        "missing":  0
+    },
+    {
+        "assembly":  "ADFGVX.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  27,
+        "missing":  0
+    },
+    {
+        "assembly":  "ADFGVXAnalyzer.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  64,
+        "missing":  0
+    },
+    {
+        "assembly":  "AES.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  45,
+        "missing":  0
+    },
+    {
+        "assembly":  "AESVisualization.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  71,
+        "missing":  0
+    },
+    {
+        "assembly":  "AffineCipher.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  24,
+        "missing":  0
+    },
+    {
+        "assembly":  "AlphabetPermutator.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  31,
+        "missing":  0
+    },
+    {
+        "assembly":  "Alphabets.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  50,
+        "missing":  0
+    },
+    {
+        "assembly":  "AnalysisMonoalphabeticSubstitution.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  101,
+        "missing":  0
+    },
+    {
+        "assembly":  "ArrayIndexer.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  8,
+        "missing":  0
+    },
+    {
+        "assembly":  "AudioInput.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  6,
+        "missing":  0
+    },
+    {
+        "assembly":  "AudioOutput.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  8,
+        "missing":  0
+    },
+    {
+        "assembly":  "AutocorrelationFunction.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  9,
+        "missing":  0
+    },
+    {
+        "assembly":  "AvalancheVisualization.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  167,
+        "missing":  0
+    },
+    {
+        "assembly":  "BaconCipher.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  35,
+        "missing":  0
+    },
+    {
+        "assembly":  "BazeriesCipher.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  22,
+        "missing":  0
+    },
+    {
+        "assembly":  "BB84ErrorDetector.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  15,
+        "missing":  0
+    },
+    {
+        "assembly":  "BB84KeyGenerator.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  15,
+        "missing":  0
+    },
+    {
+        "assembly":  "BB84ManInTheMiddle.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  28,
+        "missing":  0
+    },
+    {
+        "assembly":  "BB84PhotonbaseGenerator.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  10,
+        "missing":  0
+    },
+    {
+        "assembly":  "BB84PhotonDecoder.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  26,
+        "missing":  0
+    },
+    {
+        "assembly":  "BB84PhotonEncoder.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  19,
+        "missing":  0
+    },
+    {
+        "assembly":  "BerlekampMassey.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  7,
+        "missing":  0
+    },
+    {
+        "assembly":  "BifidCipher.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  20,
+        "missing":  0
+    },
+    {
+        "assembly":  "BLAKE.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  14,
+        "missing":  0
+    },
+    {
+        "assembly":  "BlindSignatureGenerator.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  77,
+        "missing":  0
+    },
+    {
+        "assembly":  "Blockchain.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  92,
+        "missing":  0
+    },
+    {
+        "assembly":  "BlockchainSignatureCreator.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  18,
+        "missing":  0
+    },
+    {
+        "assembly":  "Blowfish.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  48,
+        "missing":  0
+    },
+    {
+        "assembly":  "BookCipher.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  56,
+        "missing":  0
+    },
+    {
+        "assembly":  "BooleanOperators.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  49,
+        "missing":  0
+    },
+    {
+        "assembly":  "ByteArrayOperations.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  19,
+        "missing":  0
+    },
+    {
+        "assembly":  "Caesar.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  32,
+        "missing":  0
+    },
+    {
+        "assembly":  "CaesarAnalysisHelper.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  16,
+        "missing":  0
+    },
+    {
+        "assembly":  "Camellia.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  33,
+        "missing":  0
+    },
+    {
+        "assembly":  "ChaCha.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  117,
+        "missing":  0
+    },
+    {
+        "assembly":  "Chaocipher.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  46,
+        "missing":  0
+    },
+    {
+        "assembly":  "CLK.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  21,
+        "missing":  0
+    },
+    {
+        "assembly":  "CoinFlipping.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  14,
+        "missing":  0
+    },
+    {
+        "assembly":  "Comparators.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  16,
+        "missing":  0
+    },
+    {
+        "assembly":  "Concatenate.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  8,
+        "missing":  0
+    },
+    {
+        "assembly":  "Contains.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  36,
+        "missing":  0
+    },
+    {
+        "assembly":  "Converter.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  65,
+        "missing":  0
+    },
+    {
+        "assembly":  "CostFunction.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  48,
+        "missing":  0
+    },
+    {
+        "assembly":  "CRC.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  21,
+        "missing":  0
+    },
+    {
+        "assembly":  "CrypCloudManager.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  81,
+        "missing":  0
+    },
+    {
+        "assembly":  "CrypCore.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  13,
+        "missing":  0
+    },
+    {
+        "assembly":  "CrypPluginBase.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  21,
+        "missing":  0
+    },
+    {
+        "assembly":  "CrypToolStore.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  40,
+        "missing":  0
+    },
+    {
+        "assembly":  "CSVReader.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  14,
+        "missing":  0
+    },
+    {
+        "assembly":  "CylinderCipher.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  0,
+        "missing":  0
+    },
+    {
+        "assembly":  "DCAKeyRecovery.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  94,
+        "missing":  0
+    },
+    {
+        "assembly":  "DCAOracle.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  11,
+        "missing":  0
+    },
+    {
+        "assembly":  "DCAPathFinder.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  457,
+        "missing":  0
+    },
+    {
+        "assembly":  "DCAPathVisualiser.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  47,
+        "missing":  0
+    },
+    {
+        "assembly":  "DCAToyCiphers.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  49,
+        "missing":  0
+    },
+    {
+        "assembly":  "Decimalization.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  44,
+        "missing":  0
+    },
+    {
+        "assembly":  "DES.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  38,
+        "missing":  0
+    },
+    {
+        "assembly":  "DESVisualization.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  66,
+        "missing":  0
+    },
+    {
+        "assembly":  "DGK.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  50,
+        "missing":  0
+    },
+    {
+        "assembly":  "Dictionary.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  10,
+        "missing":  0
+    },
+    {
+        "assembly":  "ElsieFourCipher.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  19,
+        "missing":  0
+    },
+    {
+        "assembly":  "Enigma.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  109,
+        "missing":  0
+    },
+    {
+        "assembly":  "EnigmaAnalyzer.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  94,
+        "missing":  0
+    },
+    {
+        "assembly":  "Factorizer.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  19,
+        "missing":  0
+    },
+    {
+        "assembly":  "FEAL.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  44,
+        "missing":  0
+    },
+    {
+        "assembly":  "Fialka.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  204,
+        "missing":  0
+    },
+    {
+        "assembly":  "FileInput.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  27,
+        "missing":  0
+    },
+    {
+        "assembly":  "FileOutput.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  30,
+        "missing":  0
+    },
+    {
+        "assembly":  "FormatPreservingEncryption.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  28,
+        "missing":  0
+    },
+    {
+        "assembly":  "FourSquareCipher.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  18,
+        "missing":  0
+    },
+    {
+        "assembly":  "FrequencyTest.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  63,
+        "missing":  0
+    },
+    {
+        "assembly":  "FriedmanTest.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  18,
+        "missing":  0
+    },
+    {
+        "assembly":  "Gate.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  20,
+        "missing":  0
+    },
+    {
+        "assembly":  "GrainV1.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  10,
+        "missing":  0
+    },
+    {
+        "assembly":  "GrandpreCipher.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  30,
+        "missing":  0
+    },
+    {
+        "assembly":  "GRANIT160Cipher.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  26,
+        "missing":  0
+    },
+    {
+        "assembly":  "Groestl.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  12,
+        "missing":  0
+    },
+    {
+        "assembly":  "HagelinMachine.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  204,
+        "missing":  0
+    },
+    {
+        "assembly":  "HammingDistance.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  8,
+        "missing":  0
+    },
+    {
+        "assembly":  "HC128.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  10,
+        "missing":  0
+    },
+    {
+        "assembly":  "HIGHT.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  37,
+        "missing":  0
+    },
+    {
+        "assembly":  "Hill.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  23,
+        "missing":  0
+    },
+    {
+        "assembly":  "HKDFSHA256.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  58,
+        "missing":  0
+    },
+    {
+        "assembly":  "HMAC.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  18,
+        "missing":  0
+    },
+    {
+        "assembly":  "HomophonicSubstitutionAnalyzer.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  87,
+        "missing":  0
+    },
+    {
+        "assembly":  "Huffman.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  34,
+        "missing":  0
+    },
+    {
+        "assembly":  "IDPAnalyser.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  56,
+        "missing":  0
+    },
+    {
+        "assembly":  "ImageHash.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  25,
+        "missing":  0
+    },
+    {
+        "assembly":  "ImageProcessor.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  51,
+        "missing":  0
+    },
+    {
+        "assembly":  "ImageSteganographyVisualization.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  126,
+        "missing":  0
+    },
+    {
+        "assembly":  "IncDec.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  12,
+        "missing":  0
+    },
+    {
+        "assembly":  "Internet_frame_generator.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  14,
+        "missing":  0
+    },
+    {
+        "assembly":  "ISAPBitCommitmentScheme.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  22,
+        "missing":  0
+    },
+    {
+        "assembly":  "JosseCipher.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  21,
+        "missing":  0
+    },
+    {
+        "assembly":  "KasiskiTest.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  24,
+        "missing":  0
+    },
+    {
+        "assembly":  "Keccak.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  95,
+        "missing":  0
+    },
+    {
+        "assembly":  "KeySearcher.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  216,
+        "missing":  0
+    },
+    {
+        "assembly":  "KKDFSHA256.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  53,
+        "missing":  0
+    },
+    {
+        "assembly":  "KKDFSHAKE256.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  45,
+        "missing":  0
+    },
+    {
+        "assembly":  "LAMBDA1.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  21,
+        "missing":  0
+    },
+    {
+        "assembly":  "LatticeCrypto.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  207,
+        "missing":  0
+    },
+    {
+        "assembly":  "LengthOf.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  6,
+        "missing":  0
+    },
+    {
+        "assembly":  "LFSR.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  59,
+        "missing":  0
+    },
+    {
+        "assembly":  "LorenzSZ42.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  59,
+        "missing":  0
+    },
+    {
+        "assembly":  "M138.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  25,
+        "missing":  0
+    },
+    {
+        "assembly":  "M138Analyzer.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  57,
+        "missing":  0
+    },
+    {
+        "assembly":  "M209.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  110,
+        "missing":  0
+    },
+    {
+        "assembly":  "M209Analyzer.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  33,
+        "missing":  0
+    },
+    {
+        "assembly":  "Magma.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  38,
+        "missing":  0
+    },
+    {
+        "assembly":  "MD5.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  75,
+        "missing":  0
+    },
+    {
+        "assembly":  "MD5Collider.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  17,
+        "missing":  0
+    },
+    {
+        "assembly":  "MexicanArmyCipherDisk.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  23,
+        "missing":  0
+    },
+    {
+        "assembly":  "MexicanArmyCipherDiskAnalyzer.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  38,
+        "missing":  0
+    },
+    {
+        "assembly":  "Mickey2.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  10,
+        "missing":  0
+    },
+    {
+        "assembly":  "MorseCode.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  22,
+        "missing":  0
+    },
+    {
+        "assembly":  "NetworkReceiver.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  45,
+        "missing":  0
+    },
+    {
+        "assembly":  "NetworkSender.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  35,
+        "missing":  0
+    },
+    {
+        "assembly":  "Nihilist.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  23,
+        "missing":  0
+    },
+    {
+        "assembly":  "NLFSR.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  44,
+        "missing":  0
+    },
+    {
+        "assembly":  "Numbers.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  46,
+        "missing":  0
+    },
+    {
+        "assembly":  "ObliviousTransfer1.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  14,
+        "missing":  0
+    },
+    {
+        "assembly":  "ObliviousTransfer2.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  14,
+        "missing":  0
+    },
+    {
+        "assembly":  "PaddingOracle.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  9,
+        "missing":  0
+    },
+    {
+        "assembly":  "PaddingOracleAttack.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  62,
+        "missing":  0
+    },
+    {
+        "assembly":  "Paillier.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  42,
+        "missing":  0
+    },
+    {
+        "assembly":  "PasswordStrength.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  45,
+        "missing":  0
+    },
+    {
+        "assembly":  "PictureOutput.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  4,
+        "missing":  0
+    },
+    {
+        "assembly":  "PKCS1.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  126,
+        "missing":  0
+    },
+    {
+        "assembly":  "PKCS5.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  34,
+        "missing":  0
+    },
+    {
+        "assembly":  "Playfair.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  35,
+        "missing":  0
+    },
+    {
+        "assembly":  "PlayfairAnalyzer.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  48,
+        "missing":  0
+    },
+    {
+        "assembly":  "PRESENT.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  69,
+        "missing":  0
+    },
+    {
+        "assembly":  "Primes.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  462,
+        "missing":  0
+    },
+    {
+        "assembly":  "PrimesGenerator.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  15,
+        "missing":  0
+    },
+    {
+        "assembly":  "PrimeTest.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  6,
+        "missing":  0
+    },
+    {
+        "assembly":  "Progress.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  6,
+        "missing":  0
+    },
+    {
+        "assembly":  "Purple.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  44,
+        "missing":  0
+    },
+    {
+        "assembly":  "QuadraticSieve.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  66,
+        "missing":  0
+    },
+    {
+        "assembly":  "Rabbit.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  10,
+        "missing":  0
+    },
+    {
+        "assembly":  "RandomNumberGenerator.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  33,
+        "missing":  0
+    },
+    {
+        "assembly":  "RAPPOR.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  62,
+        "missing":  0
+    },
+    {
+        "assembly":  "RC2.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  30,
+        "missing":  0
+    },
+    {
+        "assembly":  "RC4.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  18,
+        "missing":  0
+    },
+    {
+        "assembly":  "RIPEMD160.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  8,
+        "missing":  0
+    },
+    {
+        "assembly":  "RSA.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  62,
+        "missing":  0
+    },
+    {
+        "assembly":  "SAES.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  35,
+        "missing":  0
+    },
+    {
+        "assembly":  "Salsa20.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  12,
+        "missing":  0
+    },
+    {
+        "assembly":  "SATSolver.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  56,
+        "missing":  0
+    },
+    {
+        "assembly":  "Scytale.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  14,
+        "missing":  0
+    },
+    {
+        "assembly":  "SDES.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  29,
+        "missing":  0
+    },
+    {
+        "assembly":  "SHA.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  14,
+        "missing":  0
+    },
+    {
+        "assembly":  "SIGABA.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  51,
+        "missing":  0
+    },
+    {
+        "assembly":  "Solitaire.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  44,
+        "missing":  0
+    },
+    {
+        "assembly":  "SolitaireAnalyser.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  22,
+        "missing":  0
+    },
+    {
+        "assembly":  "Sosemanuk.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  10,
+        "missing":  0
+    },
+    {
+        "assembly":  "SpanishStripCipher.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  35,
+        "missing":  0
+    },
+    {
+        "assembly":  "Speck.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  53,
+        "missing":  0
+    },
+    {
+        "assembly":  "StraddlingCheckerboard.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  36,
+        "missing":  0
+    },
+    {
+        "assembly":  "StreamComparator.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  11,
+        "missing":  0
+    },
+    {
+        "assembly":  "StringDecoder.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  29,
+        "missing":  0
+    },
+    {
+        "assembly":  "StringEncoder.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  27,
+        "missing":  0
+    },
+    {
+        "assembly":  "StringOperations.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  45,
+        "missing":  0
+    },
+    {
+        "assembly":  "Substitution.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  35,
+        "missing":  0
+    },
+    {
+        "assembly":  "SyllabaryCipher.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  45,
+        "missing":  0
+    },
+    {
+        "assembly":  "T310.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  51,
+        "missing":  0
+    },
+    {
+        "assembly":  "T9Code.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  24,
+        "missing":  0
+    },
+    {
+        "assembly":  "TEA.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  41,
+        "missing":  0
+    },
+    {
+        "assembly":  "TextInput.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  20,
+        "missing":  0
+    },
+    {
+        "assembly":  "TextOutput.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  44,
+        "missing":  0
+    },
+    {
+        "assembly":  "TextSteganography.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  25,
+        "missing":  0
+    },
+    {
+        "assembly":  "Tiger.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  10,
+        "missing":  0
+    },
+    {
+        "assembly":  "Transcriptor.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  39,
+        "missing":  0
+    },
+    {
+        "assembly":  "Transposition.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  43,
+        "missing":  0
+    },
+    {
+        "assembly":  "TranspositionAnalyser.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  63,
+        "missing":  0
+    },
+    {
+        "assembly":  "TrifidCipher.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  16,
+        "missing":  0
+    },
+    {
+        "assembly":  "Trivium.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  17,
+        "missing":  0
+    },
+    {
+        "assembly":  "Typex.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  41,
+        "missing":  0
+    },
+    {
+        "assembly":  "Variable.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  12,
+        "missing":  0
+    },
+    {
+        "assembly":  "Vernam.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  15,
+        "missing":  0
+    },
+    {
+        "assembly":  "VIC.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  25,
+        "missing":  0
+    },
+    {
+        "assembly":  "Vigenere.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  36,
+        "missing":  0
+    },
+    {
+        "assembly":  "VigenereAnalyzer.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  62,
+        "missing":  0
+    },
+    {
+        "assembly":  "VisualCryptography.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  24,
+        "missing":  0
+    },
+    {
+        "assembly":  "VisualDecoder.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  14,
+        "missing":  0
+    },
+    {
+        "assembly":  "VisualEncoder.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  47,
+        "missing":  0
+    },
+    {
+        "assembly":  "WatermarkCreator.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  41,
+        "missing":  0
+    },
+    {
+        "assembly":  "WebCam.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  26,
+        "missing":  0
+    },
+    {
+        "assembly":  "WEP.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  12,
+        "missing":  0
+    },
+    {
+        "assembly":  "WEPAttacks.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  32,
+        "missing":  0
+    },
+    {
+        "assembly":  "Whirlpool.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  10,
+        "missing":  0
+    },
+    {
+        "assembly":  "Wizard.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  41,
+        "missing":  0
+    },
+    {
+        "assembly":  "WordPatterns.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  16,
+        "missing":  0
+    },
+    {
+        "assembly":  "WorkspaceManager.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  160,
+        "missing":  0
+    },
+    {
+        "assembly":  "XOR.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  8,
+        "missing":  0
+    },
+    {
+        "assembly":  "Yao1.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  6,
+        "missing":  0
+    },
+    {
+        "assembly":  "Yao2.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  12,
+        "missing":  0
+    },
+    {
+        "assembly":  "Yao3.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  12,
+        "missing":  0
+    },
+    {
+        "assembly":  "ZeroKnowledgeChecked.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  12,
+        "missing":  0
+    },
+    {
+        "assembly":  "ZeroKnowledgeChecker.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  16,
+        "missing":  0
+    },
+    {
+        "assembly":  "CrypCore.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  13,
+        "missing":  0
+    },
+    {
+        "assembly":  "CrypPluginBase.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  21,
+        "missing":  0
+    },
+    {
+        "assembly":  "CrypWin.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  408,
+        "missing":  0
+    },
+    {
+        "assembly":  "OnlineDocumentationGenerator.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  76,
+        "missing":  0
+    },
+    {
+        "assembly":  "Startcenter.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  43,
+        "missing":  0
+    },
+    {
+        "assembly":  "WorkspaceManagerModel.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  38,
+        "missing":  0
+    },
+    {
+        "assembly":  "HexBox.resources",
+        "ok":  true,
+        "error":  null,
+        "strings":  8,
+        "missing":  0
+    }
+]

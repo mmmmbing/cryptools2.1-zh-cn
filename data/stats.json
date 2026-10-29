@@ -1,0 +1,10 @@
+{
+ "total_entries": 9359,
+ "empty_source_entries": 9,
+ "translatable_entries": 9350,
+ "translated": 9350,
+ "untranslated": 0,
+ "coverage_pct": 100.0,
+ "assemblies": 204,
+ "unique_sources": 6733
+}

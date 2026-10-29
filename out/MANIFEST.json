@@ -1,0 +1,1041 @@
+{
+ "count": 207,
+ "total_bytes": 1948672,
+ "files": [
+  {
+   "path": "CrypPlugins\\zh-CN\\ADFGVX.resources.dll",
+   "bytes": 5120,
+   "sha256": "f233879f00b913a4c6c84978bdc600119b3f0cf0acc0fb0e36fbfae730f1c290"
+  },
+  {
+   "path": "CrypPlugins\\zh-CN\\ADFGVXAnalyzer.resources.dll",
+   "bytes": 7168,
+   "sha256": "b478943e122d9cda5f45cbf82b525f34e245e8a876b55a25e834916c56d46cff"
+  },
+  {
+   "path": "CrypPlugins\\zh-CN\\AES.resources.dll",
+   "bytes": 5632,
+   "sha256": "e3599bcadf40aa79665ddfc42a3553edf403f2c2a77ebe7a53e0de5651f6f8c4"
+  },
+  {
+   "path": "CrypPlugins\\zh-CN\\AESVisualization.resources.dll",
+   "bytes": 265728,
+   "sha256": "cbc4895a2f753ed9190de77a746ae363947e774a47e781d985d53d4ee6bc960c"
+  },
+  {
+   "path": "CrypPlugins\\zh-CN\\Achterbahn.resources.dll",
+   "bytes": 3584,
+   "sha256": "8a92c7ba87222f119aabbe014c71ccd1e3153c594201679433b81ca199967335"
+  },
+  {
+   "path": "CrypPlugins\\zh-CN\\AffineCipher.resources.dll",
+   "bytes": 4608,
+   "sha256": "9f2363b435e40f99d7d3a9a7bf5bdaac5b88102b43e5a882a2a2221e2db988a6"
+  },
+  {
+   "path": "CrypPlugins\\zh-CN\\AlphabetPermutator.resources.dll",
+   "bytes": 5120,
+   "sha256": "f28af68930de2165ce8e7229abb443b7cfc9e03c44004eb608abe84e99f605ec"
+  },
+  {
+   "path": "CrypPlugins\\zh-CN\\Alphabets.resources.dll",
+   "bytes": 5632,
+   "sha256": "0551f9e01a74509092f8ddc1a4084c2076fd293ce875af7fc8c2b78d5974b58d"
+  },
+  {
+   "path": "CrypPlugins\\zh-CN\\AnalysisMonoalphabeticSubstitution.resources.dll",
+   "bytes": 10240,
+   "sha256": "64f4bbed675863d8f5a7a78858229d7a2c9c10cc7ef56d367ba445c2e391d05b"
+  },
+  {
+   "path": "CrypPlugins\\zh-CN\\ArrayIndexer.resources.dll",
+   "bytes": 3584,
+   "sha256": "b17d7df1ace387a717baa8e0e95321ab320937f2cf2263c94401075817461723"
+  },
+  {
+   "path": "CrypPlugins\\zh-CN\\AudioInput.resources.dll",
+   "bytes": 3072,
+   "sha256": "fe4f92b75b979cab6c2ead0966de490aa21a45b988ba127e4d4a43576f9089ac"
+  },
+  {
+   "path": "CrypPlugins\\zh-CN\\AudioOutput.resources.dll",
+   "bytes": 3072,
+   "sha256": "6a311da3094f92553c8423c8b060ba6b51bbb82865a1f2efeea8bdbbe088cac8"
+  },
+  {
+   "path": "CrypPlugins\\zh-CN\\AutocorrelationFunction.resources.dll",
+   "bytes": 3584,
+   "sha256": "92b5a025bdc442bffed96f90ed11acf98c1db19bd1f544a47fe32f14ef2d9f52"
+  },
+  {
+   "path": "CrypPlugins\\zh-CN\\AvalancheVisualization.resources.dll",
+   "bytes": 15360,
+   "sha256": "901f0155fd27ccfd0a326fb352ffed3d68a58039cc3cd3e97cedfaf38cf84f5e"
+  },
+  {
+   "path": "CrypPlugins\\zh-CN\\BB84ErrorDetector.resources.dll",
+   "bytes": 4096,
+   "sha256": "6eb5f66dc69c38a68b1f8377bc90b424124d98bbfbace0fc038c0956558e20f2"
+  },
+  {
+   "path": "CrypPlugins\\zh-CN\\BB84KeyGenerator.resources.dll",
+   "bytes": 4096,
+   "sha256": "b2cef0a6caa32973b6fab65b3f0f05342f4d3dfd3ac47cc9d22cbb9b85e42797"
+  },
+  {
+   "path": "CrypPlugins\\zh-CN\\BB84ManInTheMiddle.resources.dll",
+   "bytes": 5120,
+   "sha256": "b20b52768fdfd498ce18d49986f829a7f5864f0554233e12f6e9d6ee98cf70b2"
+  },
+  {
+   "path": "CrypPlugins\\zh-CN\\BB84PhotonDecoder.resources.dll",
+   "bytes": 4608,
+   "sha256": "d5ebe463238747512d0b9cf82447c547b446bfbb00430ce84babd46e36cf8fcc"
+  },
+  {
+   "path": "CrypPlugins\\zh-CN\\BB84PhotonEncoder.resources.dll",
+   "bytes": 4096,
+   "sha256": "65bafce7b35df8eabb2589218402eaddea2e64d4c59710f61da49e68579495a2"
+  },
+  {
+   "path": "CrypPlugins\\zh-CN\\BB84PhotonbaseGenerator.resources.dll",
+   "bytes": 3584,
+   "sha256": "22b2265d2f657c1c530fbda2e852735cdc21d9932f1a90493c931c131cdb6091"
+  },
+  {
+   "path": "CrypPlugins\\zh-CN\\BLAKE.resources.dll",
+   "bytes": 3584,
+   "sha256": "d7ac9017d3263387e904448351b5a1e0fd76a885fb65db8bbc90d2d77d0fdc3d"
+  },
+  {
+   "path": "CrypPlugins\\zh-CN\\BaconCipher.resources.dll",
+   "bytes": 5632,
+   "sha256": "a3e670ea28f363ee072379f443283e28a3eae4efb92d3718d812f5f6da848f75"
+  },
+  {
+   "path": "CrypPlugins\\zh-CN\\BazeriesCipher.resources.dll",
+   "bytes": 4096,
+   "sha256": "89583ea6a97a90673b047756392c5b7d7d97d49fb0326436032c2144423af32f"
+  },
+  {
+   "path": "CrypPlugins\\zh-CN\\BerlekampMassey.resources.dll",
+   "bytes": 3584,
+   "sha256": "63cc10beb0b39216f05a903718e4dcf3a7632d663c93301b59b7dffb47313642"
+  },
+  {
+   "path": "CrypPlugins\\zh-CN\\BifidCipher.resources.dll",
+   "bytes": 4096,
+   "sha256": "7a6caa3498b97b5e25ec57169801447200b28d1551891d83ff00afbba256a09e"
+  },
+  {
+   "path": "CrypPlugins\\zh-CN\\BlindSignatureGenerator.resources.dll",
+   "bytes": 9216,
+   "sha256": "310217b17cd00dc85403ef82cd59f6421265d84cf7f810fd805934e54925e0b1"
+  },
+  {
+   "path": "CrypPlugins\\zh-CN\\Blockchain.resources.dll",
+   "bytes": 9216,
+   "sha256": "aa6a3ed81ae218b0481c602526dc61c236de6a009bd6566e85d98525fe9d9cde"
+  },
+  {
+   "path": "CrypPlugins\\zh-CN\\BlockchainSignatureCreator.resources.dll",
+   "bytes": 4096,
+   "sha256": "cfb1470ee30030ad9f9a82337f3d3ace926c74ed0b1abbe4698ffd5b2fd68022"
+  },
+  {
+   "path": "CrypPlugins\\zh-CN\\Blowfish.resources.dll",
+   "bytes": 6144,
+   "sha256": "630b968087a757ccf61a37bd5534b91342442fd9a248038d261112748a4bceb1"
+  },
+  {
+   "path": "CrypPlugins\\zh-CN\\BookCipher.resources.dll",
+   "bytes": 6656,
+   "sha256": "d660784065b3e3dcdb357e00f0404f4b1e187d5779c802fec833889048738bcd"
+  },
+  {
+   "path": "CrypPlugins\\zh-CN\\BooleanOperators.resources.dll",
+   "bytes": 6144,
+   "sha256": "f49e2b04045df9d12036ce7c0691b3a682564a7df642452c46d38c01adb79dfb"
+  },
+  {
+   "path": "CrypPlugins\\zh-CN\\ByteArrayOperations.resources.dll",
+   "bytes": 4096,
+   "sha256": "738bb8396f42a3415c5510cb5a3658765b7e0697c34574d643a061e2bd0303b8"
+  },
+  {
+   "path": "CrypPlugins\\zh-CN\\CLK.resources.dll",
+   "bytes": 4096,
+   "sha256": "bc26264249bc7b6f08b728bf05d2e8d5cc37bd445a7c8be623e6fb6cc1bf8beb"
+  },
+  {
+   "path": "CrypPlugins\\zh-CN\\CRC.resources.dll",
+   "bytes": 4096,
+   "sha256": "9ce3b24b32fddfece103f8acfabd7f86e5bf9684946309d5155aa8535f7f02ca"
+  },
+  {
+   "path": "CrypPlugins\\zh-CN\\CSVReader.resources.dll",
+   "bytes": 3584,
+   "sha256": "332636084ccb19d2e929e5410f8faccc4866f719fd857d093b89374234c4f3ca"
+  },
+  {
+   "path": "CrypPlugins\\zh-CN\\Caesar.resources.dll",
+   "bytes": 5632,
+   "sha256": "9b313abee48e665dfd9995356a540def62d9255bfff38de83ddfdbc5617c8fc7"
+  },
+  {
+   "path": "CrypPlugins\\zh-CN\\CaesarAnalysisHelper.resources.dll",
+   "bytes": 4096,
+   "sha256": "92fff7122d99717ed648e22e71b83cd98000daa20c150a10d148de890c3ebc13"
+  },
+  {
+   "path": "CrypPlugins\\zh-CN\\Camellia.resources.dll",
+   "bytes": 4608,
+   "sha256": "91c910b147b763a2b29c228aa31c38e75bbfa065f4de2f80c6db1df61418103c"
+  },
+  {
+   "path": "CrypPlugins\\zh-CN\\ChaCha.resources.dll",
+   "bytes": 14336,
+   "sha256": "03c2fbc889cda54677f1063a916399a33204513bde4271242abb6db113d8578b"
+  },
+  {
+   "path": "CrypPlugins\\zh-CN\\Chaocipher.resources.dll",
+   "bytes": 6144,
+   "sha256": "34bb45d16644f8a0896504583e9cccba78e31d6bf460fa06e651daa2fde0d4f3"
+  },
+  {
+   "path": "CrypPlugins\\zh-CN\\CoinFlipping.resources.dll",
+   "bytes": 3584,
+   "sha256": "8c18e22ff0519cbee9c26445391aed7d8abca89d22ad496eaba7b2dd60ed43b4"
+  },
+  {
+   "path": "CrypPlugins\\zh-CN\\Comparators.resources.dll",
+   "bytes": 3584,
+   "sha256": "42bee2bf7a3dc5e358f49ad46b604eca1a468faf753ae388945469080a1fd993"
+  },
+  {
+   "path": "CrypPlugins\\zh-CN\\Concatenate.resources.dll",
+   "bytes": 3072,
+   "sha256": "b05d73a983d539259a93ee53604162ad657fcb93b6ad6aa97e377fd6aeb334c2"
+  },
+  {
+   "path": "CrypPlugins\\zh-CN\\Contains.resources.dll",
+   "bytes": 5632,
+   "sha256": "09cd512829280db8d3299b175f3691c873882d4fa16802bef0420b0765f02608"
+  },
+  {
+   "path": "CrypPlugins\\zh-CN\\Converter.resources.dll",
+   "bytes": 7680,
+   "sha256": "a0434434656fbf0841eb58aed8e17183da95234a3d755aace91e18ee89a26a67"
+  },
+  {
+   "path": "CrypPlugins\\zh-CN\\CostFunction.resources.dll",
+   "bytes": 6144,
+   "sha256": "4031502a57097b242687358140f05660462754e1ed157f28b1a17cf38ba0c3b7"
+  },
+  {
+   "path": "CrypPlugins\\zh-CN\\CrypCloudManager.resources.dll",
+   "bytes": 27648,
+   "sha256": "9e7bc02861bb2a59e3674d1e6f310badb6c4b84c19058f2ef563199672552e1f"
+  },
+  {
+   "path": "CrypPlugins\\zh-CN\\CrypCore.resources.dll",
+   "bytes": 3584,
+   "sha256": "42ad960d6be236d8448e2078ec176121dd4f60b9847a61f80bbb8258e0333e21"
+  },
+  {
+   "path": "CrypPlugins\\zh-CN\\CrypPluginBase.resources.dll",
+   "bytes": 4096,
+   "sha256": "f273091fcff21393ae98aa31779349896d97c70366b861a46a8355db52c905ae"
+  },
+  {
+   "path": "CrypPlugins\\zh-CN\\CrypToolStore.resources.dll",
+   "bytes": 38400,
+   "sha256": "dbb977e40c785a16ee536cdfa03a9b099197762bbf5b98c7ad89a1e72250f00c"
+  },
+  {
+   "path": "CrypPlugins\\zh-CN\\CylinderCipher.resources.dll",
+   "bytes": 2560,
+   "sha256": "74542dfa476ab0ed839d3fc1f67124890a19ed33d5df872a7f001e11169452eb"
+  },
+  {
+   "path": "CrypPlugins\\zh-CN\\DCAKeyRecovery.resources.dll",
+   "bytes": 10752,
+   "sha256": "4be48a2738ba541ca1a4623ba1b208fe86981477b84d3809f21775548e07f726"
+  },
+  {
+   "path": "CrypPlugins\\zh-CN\\DCAOracle.resources.dll",
+   "bytes": 3584,
+   "sha256": "f68004d68268709181d439c9945390e7cb77c549e8c514b711a011f5155b1820"
+  },
+  {
+   "path": "CrypPlugins\\zh-CN\\DCAPathFinder.resources.dll",
+   "bytes": 62464,
+   "sha256": "0c10b5fe64cf9e426c97b4e648a5a401e608d9f89dfd9837236e1289cf795491"
+  },
+  {
+   "path": "CrypPlugins\\zh-CN\\DCAPathVisualiser.resources.dll",
+   "bytes": 5632,
+   "sha256": "6500c12f80d03db4b123ccca528c929b709d5f277b2dbc2774f38acfec5126d1"
+  },
+  {
+   "path": "CrypPlugins\\zh-CN\\DCAToyCiphers.resources.dll",
+   "bytes": 7680,
+   "sha256": "f0f8c129f38e5f4f18ca27aac74136d3d828ddcad7001ef30b59dcbbfbb160c5"
+  },
+  {
+   "path": "CrypPlugins\\zh-CN\\DES.resources.dll",
+   "bytes": 5120,
+   "sha256": "8bc9ec78aa36f18b5d4d9799ebf69fb9975b2b5bba8b79230ecf8f19ef57c3e7"
+  },
+  {
+   "path": "CrypPlugins\\zh-CN\\DESVisualization.resources.dll",
+   "bytes": 7680,
+   "sha256": "210d01dff538565fe53fc3ffc198d6f8e8002001e5037499bd30a2632f295d1e"
+  },
+  {
+   "path": "CrypPlugins\\zh-CN\\DGK.resources.dll",
+   "bytes": 5632,
+   "sha256": "805dcf0dd6af189b0980e8e704337c1053fabb3507ee6354863b2359df88792a"
+  },
+  {
+   "path": "CrypPlugins\\zh-CN\\Decimalization.resources.dll",
+   "bytes": 5120,
+   "sha256": "21081a2f6d566718c880bf84e5d93d02593d57afd457222c840f631d30d85afa"
+  },
+  {
+   "path": "CrypPlugins\\zh-CN\\Dictionary.resources.dll",
+   "bytes": 3584,
+   "sha256": "ec82ef9b43e1cb2278f12d59f608906614cd2f03f3a25ac120aab0cb5591812c"
+  },
+  {
+   "path": "CrypPlugins\\zh-CN\\ElsieFourCipher.resources.dll",
+   "bytes": 4096,
+   "sha256": "28e062fe86d8857d0b944462f6ccf049380aafbe6f07723077bf404be3012b73"
+  },
+  {
+   "path": "CrypPlugins\\zh-CN\\Enigma.resources.dll",
+   "bytes": 10752,
+   "sha256": "3c8a34ac0270b10c67d571630f3b789c31cd613d0f53238ac254814b98518416"
+  },
+  {
+   "path": "CrypPlugins\\zh-CN\\EnigmaAnalyzer.resources.dll",
+   "bytes": 10240,
+   "sha256": "5039f689598796b58d69e35bf3eded789235151939e16dc281e4e2472ce2ee80"
+  },
+  {
+   "path": "CrypPlugins\\zh-CN\\FEAL.resources.dll",
+   "bytes": 5632,
+   "sha256": "df24e981c07184c8902d3d7be7e4ff6e82eb0a3188a3bd91b49f5cf371fc7995"
+  },
+  {
+   "path": "CrypPlugins\\zh-CN\\Factorizer.resources.dll",
+   "bytes": 4096,
+   "sha256": "0bb88b1a11fb0f3996f773ccf31e9f1ca6deb47689ca16698b786c9304b443f2"
+  },
+  {
+   "path": "CrypPlugins\\zh-CN\\Fialka.resources.dll",
+   "bytes": 19456,
+   "sha256": "4b193e39080748138d8b0ca92dedf0d8b8e34b982e62775b69bb2c11f9cff0da"
+  },
+  {
+   "path": "CrypPlugins\\zh-CN\\FileInput.resources.dll",
+   "bytes": 4096,
+   "sha256": "fcf672d102095af312dcd8d9513cae9a5725601d9c2d62a1d239c7d848b71fe3"
+  },
+  {
+   "path": "CrypPlugins\\zh-CN\\FileOutput.resources.dll",
+   "bytes": 4608,
+   "sha256": "fb41bd4935dc2b836ba215b2f44995dc5161703e3ba4ec0f49eb66a8ab30c00b"
+  },
+  {
+   "path": "CrypPlugins\\zh-CN\\FormatPreservingEncryption.resources.dll",
+   "bytes": 4608,
+   "sha256": "fd1e5656623a1a957b5b0655cb81138a6a90a56ed12174783eda28ee2c0c0a74"
+  },
+  {
+   "path": "CrypPlugins\\zh-CN\\FourSquareCipher.resources.dll",
+   "bytes": 4096,
+   "sha256": "75a06d8a3986de53b78974f0d7d7e3e42f1246e970fc3f32eb07f6c381e2df3a"
+  },
+  {
+   "path": "CrypPlugins\\zh-CN\\FrequencyTest.resources.dll",
+   "bytes": 7680,
+   "sha256": "ea1b02b761f8fb341a81913cc9c8b54e436a57998f0f312bb4f5907bac8d8951"
+  },
+  {
+   "path": "CrypPlugins\\zh-CN\\FriedmanTest.resources.dll",
+   "bytes": 4096,
+   "sha256": "e3a94523465e8bc486a2a0d28de619a9eb4a4c8fbf6964cea4fbdd20ef5724a3"
+  },
+  {
+   "path": "CrypPlugins\\zh-CN\\GRANIT160Cipher.resources.dll",
+   "bytes": 4608,
+   "sha256": "9c88ebf11354661bde2c95ff1ddf4d27e472ecd4f47081d74e78fdc3af1e6851"
+  },
+  {
+   "path": "CrypPlugins\\zh-CN\\Gate.resources.dll",
+   "bytes": 4096,
+   "sha256": "ced0656827e8864bac44c2c7648792f65338eac017b0083e34c036648d59e356"
+  },
+  {
+   "path": "CrypPlugins\\zh-CN\\GrainV1.resources.dll",
+   "bytes": 3584,
+   "sha256": "1dab1c7fccfdc3eabba04f4b528992ad4321161b74089a2f95da2a9fc3991716"
+  },
+  {
+   "path": "CrypPlugins\\zh-CN\\GrandpreCipher.resources.dll",
+   "bytes": 5120,
+   "sha256": "8249a7fde4449cb966f7ecee5a7f86c2e410633806c0d0120706bf529cdee155"
+  },
+  {
+   "path": "CrypPlugins\\zh-CN\\Groestl.resources.dll",
+   "bytes": 3584,
+   "sha256": "a92a6a126cbca673c5590db180536363288e88b5afdcb2d196ddb1b34f1e4690"
+  },
+  {
+   "path": "CrypPlugins\\zh-CN\\HC128.resources.dll",
+   "bytes": 3584,
+   "sha256": "b5d72f52457431d7103d2abfab33b53919e9258fe52eb2765de29ee6bbc76b29"
+  },
+  {
+   "path": "CrypPlugins\\zh-CN\\HIGHT.resources.dll",
+   "bytes": 5632,
+   "sha256": "288c67112ea97b6cecb2dd001366aed6ca770814b0fcc5f84db7a8d8bc5d0167"
+  },
+  {
+   "path": "CrypPlugins\\zh-CN\\HKDFSHA256.resources.dll",
+   "bytes": 10240,
+   "sha256": "34496ac1cc2dc617f6bb3d4aa0a6dc992966a7953a1b636292498666ad6a677f"
+  },
+  {
+   "path": "CrypPlugins\\zh-CN\\HMAC.resources.dll",
+   "bytes": 4096,
+   "sha256": "3568491e0aff2da0565df60a9793282905962b17cc89810e6783c35ec3e1a8fc"
+  },
+  {
+   "path": "CrypPlugins\\zh-CN\\HagelinMachine.resources.dll",
+   "bytes": 19456,
+   "sha256": "a3ba7cc12b2d9a58d98ca9d8247c0f404cb3b8a6e06fb63f490afe281d1ecb84"
+  },
+  {
+   "path": "CrypPlugins\\zh-CN\\HammingDistance.resources.dll",
+   "bytes": 3072,
+   "sha256": "51db2a860636512d76fe5515e88341e408e80f4f5d8f8f849c345ff1a9e2106e"
+  },
+  {
+   "path": "CrypPlugins\\zh-CN\\Hill.resources.dll",
+   "bytes": 4608,
+   "sha256": "23050eecd4bfd9d89ce91978535f15d97d2e5dc9bdc8feef9b875ad813239dc6"
+  },
+  {
+   "path": "CrypPlugins\\zh-CN\\HomophonicSubstitutionAnalyzer.resources.dll",
+   "bytes": 8704,
+   "sha256": "9b58b81934f128e55aa55ce56cd133f2bf8bd056e9960ec08db313b361679a75"
+  },
+  {
+   "path": "CrypPlugins\\zh-CN\\Huffman.resources.dll",
+   "bytes": 5120,
+   "sha256": "14281d28dcb6dd35cc88a14b1c5c60746f27a0b3de8ab8f28dd5e707d9e360c6"
+  },
+  {
+   "path": "CrypPlugins\\zh-CN\\IDPAnalyser.resources.dll",
+   "bytes": 6144,
+   "sha256": "0806dc2215ee9aade15b5272e65345404e8955a90aad3954ce3197c6188b746e"
+  },
+  {
+   "path": "CrypPlugins\\zh-CN\\ISAPBitCommitmentScheme.resources.dll",
+   "bytes": 4096,
+   "sha256": "9ce2f00fdd5fb6bef42e389b3b94b88a6e39ace84b73b49e2290dc2d0b082a89"
+  },
+  {
+   "path": "CrypPlugins\\zh-CN\\ImageHash.resources.dll",
+   "bytes": 4608,
+   "sha256": "5aebfe6e709060a8e583e219b5d52e25f74aca635f139fdbe973bc0b8926808f"
+  },
+  {
+   "path": "CrypPlugins\\zh-CN\\ImageProcessor.resources.dll",
+   "bytes": 6144,
+   "sha256": "31d51a11c6d6b6328381bb1ebb08cc9361f03cdd53ef1eb3ea5d3f2f16435684"
+  },
+  {
+   "path": "CrypPlugins\\zh-CN\\ImageSteganographyVisualization.resources.dll",
+   "bytes": 13824,
+   "sha256": "a7d75c90142b9bae8f53914922ce873e90f24b1930f03382a8b955d6acaa1502"
+  },
+  {
+   "path": "CrypPlugins\\zh-CN\\IncDec.resources.dll",
+   "bytes": 3584,
+   "sha256": "42ca4d793fdd09c4474e6e2a7c5f2daec0ecf39dbb498a03592ce4b5f7cd590c"
+  },
+  {
+   "path": "CrypPlugins\\zh-CN\\Internet_frame_generator.resources.dll",
+   "bytes": 3584,
+   "sha256": "fe01bc419600593e77e76e627285bf62d28a647f83222e3570b8b67daa1c2905"
+  },
+  {
+   "path": "CrypPlugins\\zh-CN\\JosseCipher.resources.dll",
+   "bytes": 4096,
+   "sha256": "e890a09cf7e0c6273317c2e6cb2f18b0927ee7ec493cbec571b94f81ee1a933b"
+  },
+  {
+   "path": "CrypPlugins\\zh-CN\\KKDFSHA256.resources.dll",
+   "bytes": 9216,
+   "sha256": "372da934630ca49ef297378e02d358f15593c3dca0e49c49d90a533555a09fe3"
+  },
+  {
+   "path": "CrypPlugins\\zh-CN\\KKDFSHAKE256.resources.dll",
+   "bytes": 8192,
+   "sha256": "bce0e58f2ddc006bcf5bbad93b65cdf702d32f09262c4e41e60417318e776ebe"
+  },
+  {
+   "path": "CrypPlugins\\zh-CN\\KasiskiTest.resources.dll",
+   "bytes": 5120,
+   "sha256": "ba37c61352d9c91400c536ca531de52f30f0be3aa8f6a44f610fe91a35f0e96f"
+  },
+  {
+   "path": "CrypPlugins\\zh-CN\\Keccak.resources.dll",
+   "bytes": 29696,
+   "sha256": "52979825c7022097323d4da87a7719726661d5ca38c142266e74c98f0ecb4494"
+  },
+  {
+   "path": "CrypPlugins\\zh-CN\\KeySearcher.resources.dll",
+   "bytes": 20480,
+   "sha256": "a12307b269e76cc22b5e0bd27dff62350dbc7da5e2c704858ea6ea8dc84bde11"
+  },
+  {
+   "path": "CrypPlugins\\zh-CN\\LAMBDA1.resources.dll",
+   "bytes": 4608,
+   "sha256": "b674f2cd297f8f868ddb9b2fa58965fb9139cda20be9d03678dc9db0a333d224"
+  },
+  {
+   "path": "CrypPlugins\\zh-CN\\LFSR.resources.dll",
+   "bytes": 8192,
+   "sha256": "42b25ee2671bbf51951829e869f29b32b113a080f1cfaeaaa6e72f348a2f362b"
+  },
+  {
+   "path": "CrypPlugins\\zh-CN\\LatticeCrypto.resources.dll",
+   "bytes": 165888,
+   "sha256": "51bdf50d3603850a6fac09904d6683bce45a226aa4b57d9bac2ab2740e01b296"
+  },
+  {
+   "path": "CrypPlugins\\zh-CN\\LengthOf.resources.dll",
+   "bytes": 3072,
+   "sha256": "ff9eeede30b12da69ba12c305c72af683cdfbb94795d77000e690f7de7451843"
+  },
+  {
+   "path": "CrypPlugins\\zh-CN\\LorenzSZ42.resources.dll",
+   "bytes": 8192,
+   "sha256": "5dfb6016146706c487ae5706bf452ea48ba3d7708e0c650e95de40677d9c98f0"
+  },
+  {
+   "path": "CrypPlugins\\zh-CN\\M138.resources.dll",
+   "bytes": 4608,
+   "sha256": "47a6174b709d0105fa10be6d92b171d0b6637ef0c0a74ee2283bf23e1885f96e"
+  },
+  {
+   "path": "CrypPlugins\\zh-CN\\M138Analyzer.resources.dll",
+   "bytes": 6656,
+   "sha256": "e9b9f6c770f88735a941e662cbfcf0e21fd5ee0c87b89d875ff7b1d25c3a6125"
+  },
+  {
+   "path": "CrypPlugins\\zh-CN\\M209.resources.dll",
+   "bytes": 9728,
+   "sha256": "f78df85bd13bdb9a88262feb792f0bf1e454fbcbe96eb46bdd8bbac65c20130a"
+  },
+  {
+   "path": "CrypPlugins\\zh-CN\\M209Analyzer.resources.dll",
+   "bytes": 4608,
+   "sha256": "04417dbda79ee17cf124f133f2aea18fc1f512db1b221a96ed353af738a49886"
+  },
+  {
+   "path": "CrypPlugins\\zh-CN\\MD5.resources.dll",
+   "bytes": 12288,
+   "sha256": "c6d480953b8804c087d3568bb38e88ac482974fa0618e21f47ca3884161bed20"
+  },
+  {
+   "path": "CrypPlugins\\zh-CN\\MD5Collider.resources.dll",
+   "bytes": 4096,
+   "sha256": "def2b67354e43c83c042b8ad45a82bb4a86589ddd2726af89a188737614e3584"
+  },
+  {
+   "path": "CrypPlugins\\zh-CN\\Magma.resources.dll",
+   "bytes": 5632,
+   "sha256": "ad186c910ad8004173bf2c07f79d25ffd5e8da53b3c298f94d22051706ec7c37"
+  },
+  {
+   "path": "CrypPlugins\\zh-CN\\MexicanArmyCipherDisk.resources.dll",
+   "bytes": 4608,
+   "sha256": "5d48b71e17e894c9dec4dc6a7c81c4d42f98501d71531219cfbd4ceea01bf395"
+  },
+  {
+   "path": "CrypPlugins\\zh-CN\\MexicanArmyCipherDiskAnalyzer.resources.dll",
+   "bytes": 5120,
+   "sha256": "f2d33522c6ba29cf09c8e570aa82fc7d618df8db9f67f00f33dde18a5b6a7f05"
+  },
+  {
+   "path": "CrypPlugins\\zh-CN\\Mickey2.resources.dll",
+   "bytes": 3584,
+   "sha256": "17655b682cefa3006170d3af3bcfb192ac503307a88c06b3d1220c95cdc7161a"
+  },
+  {
+   "path": "CrypPlugins\\zh-CN\\MorseCode.resources.dll",
+   "bytes": 4096,
+   "sha256": "bf73f58bc963d990a4e9d5d500fc8b331388d20b2c59ed889049a9ea1d9021d6"
+  },
+  {
+   "path": "CrypPlugins\\zh-CN\\NLFSR.resources.dll",
+   "bytes": 6656,
+   "sha256": "8baa06ee1c712c21c70d1dc160d47e12d85ebd2c91a2e750c42de23693392c7f"
+  },
+  {
+   "path": "CrypPlugins\\zh-CN\\NetworkReceiver.resources.dll",
+   "bytes": 6144,
+   "sha256": "2de1ae2b240f6a9c8c715c4659dc2a619dded8d0e116b69d710d122a038eb5cb"
+  },
+  {
+   "path": "CrypPlugins\\zh-CN\\NetworkSender.resources.dll",
+   "bytes": 5120,
+   "sha256": "9b5c5598d80816fa56a2d12f53190458a137f84d91ed690132c8149c92800c7d"
+  },
+  {
+   "path": "CrypPlugins\\zh-CN\\Nihilist.resources.dll",
+   "bytes": 4608,
+   "sha256": "a1efc6def79a1654ecbbf7223969e21e713e269ce21b68d029ad791e0fc3583a"
+  },
+  {
+   "path": "CrypPlugins\\zh-CN\\Numbers.resources.dll",
+   "bytes": 5632,
+   "sha256": "2ae03ae534426cd351e23b84a8184d92dd34e27830434ca9e19ebf8c9a4aadf2"
+  },
+  {
+   "path": "CrypPlugins\\zh-CN\\ObliviousTransfer1.resources.dll",
+   "bytes": 3584,
+   "sha256": "b0d1f141a6761f4982aca3d8a1ebb9625c6e59aeaaee24d8c67c00921d572c18"
+  },
+  {
+   "path": "CrypPlugins\\zh-CN\\ObliviousTransfer2.resources.dll",
+   "bytes": 3584,
+   "sha256": "bf01ffd6e0ad7d9e2b822992f031601b832523c91856fbebd4f49d9c6c4c2a0a"
+  },
+  {
+   "path": "CrypPlugins\\zh-CN\\PKCS1.resources.dll",
+   "bytes": 28672,
+   "sha256": "65fb75b635db319dccd68cf1585741ab1f1432dcd53364ded892033bb4e2d6bd"
+  },
+  {
+   "path": "CrypPlugins\\zh-CN\\PKCS5.resources.dll",
+   "bytes": 5120,
+   "sha256": "32c5ea731e9e00d3dac56f607c0d28d1221630a79ce0e8b1c2f59095492767bf"
+  },
+  {
+   "path": "CrypPlugins\\zh-CN\\PRESENT.resources.dll",
+   "bytes": 7680,
+   "sha256": "c63df59f9144512872325074d79e3bbf0ce6e5bcb0c832eec5a8506231445113"
+  },
+  {
+   "path": "CrypPlugins\\zh-CN\\PaddingOracle.resources.dll",
+   "bytes": 3072,
+   "sha256": "104a75ca283e7adfe398374ea15166776741fcb9bbfd2842acebdbb293243a98"
+  },
+  {
+   "path": "CrypPlugins\\zh-CN\\PaddingOracleAttack.resources.dll",
+   "bytes": 7680,
+   "sha256": "2d3cca6b5605e10f41a62e9176f6e48e36870787a250b82ad4841c6be32a13ab"
+  },
+  {
+   "path": "CrypPlugins\\zh-CN\\Paillier.resources.dll",
+   "bytes": 5120,
+   "sha256": "0b6c1fc04f0f9b80a2978f300da20ce2b9ca9c29ddf05dbf6b5a9c3a7008dd7c"
+  },
+  {
+   "path": "CrypPlugins\\zh-CN\\PasswordStrength.resources.dll",
+   "bytes": 5120,
+   "sha256": "34525c9cdc6ff97f796ee31031f2b14875d9891472165f959aa9ac42f566a278"
+  },
+  {
+   "path": "CrypPlugins\\zh-CN\\PictureOutput.resources.dll",
+   "bytes": 3072,
+   "sha256": "b26aa004a6025a2abbb40a6ba45233b14b75281d25fae297b8d10b610ef2c2a8"
+  },
+  {
+   "path": "CrypPlugins\\zh-CN\\Playfair.resources.dll",
+   "bytes": 5632,
+   "sha256": "1a01e7fb6d513801620524147722687e62542c13bcdecf66a046070085901116"
+  },
+  {
+   "path": "CrypPlugins\\zh-CN\\PlayfairAnalyzer.resources.dll",
+   "bytes": 6144,
+   "sha256": "8d82986bd9e53c551b376e133333dd531afdc6d6dc8519acf617386956b6509b"
+  },
+  {
+   "path": "CrypPlugins\\zh-CN\\PrimeTest.resources.dll",
+   "bytes": 3072,
+   "sha256": "9c316be54757af654fc86885c93cdd4518529bf72af97f5419a555226e818e97"
+  },
+  {
+   "path": "CrypPlugins\\zh-CN\\Primes.resources.dll",
+   "bytes": 148992,
+   "sha256": "ee274fc5d39aec13f2e1329f57fd95024745d38665db853cad8eeb9a5666b218"
+  },
+  {
+   "path": "CrypPlugins\\zh-CN\\PrimesGenerator.resources.dll",
+   "bytes": 3584,
+   "sha256": "89dadec00e75136f810c936dcf707288fddde568e9a3627f2038a200f55afe54"
+  },
+  {
+   "path": "CrypPlugins\\zh-CN\\Progress.resources.dll",
+   "bytes": 3072,
+   "sha256": "faae54262720f5fc551bf58217f4cda122b31eef64c783d867711d4fc6e1926d"
+  },
+  {
+   "path": "CrypPlugins\\zh-CN\\Purple.resources.dll",
+   "bytes": 5632,
+   "sha256": "9dca5f6cf480217876a0bb3287a0b7d16dd571cf506c0e9a3bc3be77d7464f15"
+  },
+  {
+   "path": "CrypPlugins\\zh-CN\\QuadraticSieve.resources.dll",
+   "bytes": 6656,
+   "sha256": "433d925c65465051f8989e071aaab62b72bd5e0b6ae623457b3747431579afcf"
+  },
+  {
+   "path": "CrypPlugins\\zh-CN\\RAPPOR.resources.dll",
+   "bytes": 9728,
+   "sha256": "6e8254118874513df5269200ec82d560caf35ad84f6c70f513307cb25d7f9838"
+  },
+  {
+   "path": "CrypPlugins\\zh-CN\\RC2.resources.dll",
+   "bytes": 4608,
+   "sha256": "16afca7887e9481f5429cbd37146673be5adf82e3bcbca4e68a3db86c1625db2"
+  },
+  {
+   "path": "CrypPlugins\\zh-CN\\RC4.resources.dll",
+   "bytes": 4096,
+   "sha256": "475044bb3fd24cd5691588cefc7740f9440db0a22ab95dfb00736db1119c1612"
+  },
+  {
+   "path": "CrypPlugins\\zh-CN\\RIPEMD160.resources.dll",
+   "bytes": 3072,
+   "sha256": "8e7b229854f1af2232456d1d874d932b6f215245bd5657a3e08a4bd055923937"
+  },
+  {
+   "path": "CrypPlugins\\zh-CN\\RSA.resources.dll",
+   "bytes": 6656,
+   "sha256": "609bbc3be873b55e6ee2b015bf44ab326b8de83310928d0df509b913ec513be2"
+  },
+  {
+   "path": "CrypPlugins\\zh-CN\\Rabbit.resources.dll",
+   "bytes": 3584,
+   "sha256": "ee40bf5c29b7e72897aadb4e8b16db30919c7eb2edca35377622e2de8ec8ef0d"
+  },
+  {
+   "path": "CrypPlugins\\zh-CN\\RandomNumberGenerator.resources.dll",
+   "bytes": 5120,
+   "sha256": "604f5a3741f25a10fe42944209752cae7fcacc9b7abe63a1f6d14274a68c9be3"
+  },
+  {
+   "path": "CrypPlugins\\zh-CN\\SAES.resources.dll",
+   "bytes": 5120,
+   "sha256": "61f1d349ba7ebfc28dfbc7357efd58eccdd2142485c1a93da91fe4cea1cfcad7"
+  },
+  {
+   "path": "CrypPlugins\\zh-CN\\SATSolver.resources.dll",
+   "bytes": 6656,
+   "sha256": "3dbce8c57649b74ac85a5a5d7fd622a2f8ad31cf12cd5a9375d98b02781a89e4"
+  },
+  {
+   "path": "CrypPlugins\\zh-CN\\SDES.resources.dll",
+   "bytes": 4608,
+   "sha256": "0aabd966de02c055979cb1ecf7015ae5d360cd5bca8360b2c5bf74fb9e84fd52"
+  },
+  {
+   "path": "CrypPlugins\\zh-CN\\SHA.resources.dll",
+   "bytes": 3584,
+   "sha256": "e4361856ae948e4315ea7fc2ea99fd031853b5e987f5e9410a3e11352de6f17a"
+  },
+  {
+   "path": "CrypPlugins\\zh-CN\\SIGABA.resources.dll",
+   "bytes": 6144,
+   "sha256": "33091be4435bd3b19434e8b25c2ca38126ff4ac9d59dae53d206664c57d6e19c"
+  },
+  {
+   "path": "CrypPlugins\\zh-CN\\Salsa20.resources.dll",
+   "bytes": 3584,
+   "sha256": "7d14116eefad5764c5c84db23209de6f09f1d3225b89cb1ab325c20a789b38e1"
+  },
+  {
+   "path": "CrypPlugins\\zh-CN\\Scytale.resources.dll",
+   "bytes": 3584,
+   "sha256": "02f753df3310f1ab955e3e6c3b4e5fb615a5bd2315524643afbec22806e7356c"
+  },
+  {
+   "path": "CrypPlugins\\zh-CN\\Solitaire.resources.dll",
+   "bytes": 6144,
+   "sha256": "55cd50a545f5052268d1364bc13646c971da03776f8f495ce9c39ff6652c139d"
+  },
+  {
+   "path": "CrypPlugins\\zh-CN\\SolitaireAnalyser.resources.dll",
+   "bytes": 4096,
+   "sha256": "d317dedba7bb8ac39aec9ab37f23e2c6ca55ab249abd71658e9bf38805a682bf"
+  },
+  {
+   "path": "CrypPlugins\\zh-CN\\Sosemanuk.resources.dll",
+   "bytes": 3584,
+   "sha256": "d60a1909dad97a004a7c270e8341e4ed40a0f08a4bea18c7c7ab18b1413c609f"
+  },
+  {
+   "path": "CrypPlugins\\zh-CN\\SpanishStripCipher.resources.dll",
+   "bytes": 5632,
+   "sha256": "da6393e7e3d5b986004423c5442ddc35525be3c658780cc99678e51823df692c"
+  },
+  {
+   "path": "CrypPlugins\\zh-CN\\Speck.resources.dll",
+   "bytes": 6656,
+   "sha256": "e98acf0d8b1676d1050d849555d4a13311e19d4238d809a3fed46c5e61537032"
+  },
+  {
+   "path": "CrypPlugins\\zh-CN\\StraddlingCheckerboard.resources.dll",
+   "bytes": 5632,
+   "sha256": "11c71a8f3a1c86cd8740c436340a34c2b2caef45da3f33aeb14bf689615ad12f"
+  },
+  {
+   "path": "CrypPlugins\\zh-CN\\StreamComparator.resources.dll",
+   "bytes": 3584,
+   "sha256": "9e03ab9b925bce926f4e52f4d732c5f1910cbcaf08f30740cf0b4de7fb71c82e"
+  },
+  {
+   "path": "CrypPlugins\\zh-CN\\StringDecoder.resources.dll",
+   "bytes": 5120,
+   "sha256": "d5b17b18702a06238197296882f8aabbb5fb2622b962efcad614742c696f0061"
+  },
+  {
+   "path": "CrypPlugins\\zh-CN\\StringEncoder.resources.dll",
+   "bytes": 5120,
+   "sha256": "2be159ccaf98835a74e17129a8b5a2e559160494f3d263780310f06e92095ff8"
+  },
+  {
+   "path": "CrypPlugins\\zh-CN\\StringOperations.resources.dll",
+   "bytes": 5632,
+   "sha256": "a2aa7ec915f1137aad638cf591c0d5a2b249b751a525579a4e661e2e77299695"
+  },
+  {
+   "path": "CrypPlugins\\zh-CN\\Substitution.resources.dll",
+   "bytes": 5632,
+   "sha256": "8e0cec74b3cd1a00034c28b431cb15e38c97e9dd7bd48e76da912c3cc722009e"
+  },
+  {
+   "path": "CrypPlugins\\zh-CN\\SyllabaryCipher.resources.dll",
+   "bytes": 6144,
+   "sha256": "d256cee8da20ca3ea9cbc8809ba32a435c56b1976854947f5a5bbc2775bc56b5"
+  },
+  {
+   "path": "CrypPlugins\\zh-CN\\T310.resources.dll",
+   "bytes": 7680,
+   "sha256": "830ac4809cc8ba9e2d496773a048b13bcbc86f7cbbbd1743da5ab65566fa111b"
+  },
+  {
+   "path": "CrypPlugins\\zh-CN\\T9Code.resources.dll",
+   "bytes": 4096,
+   "sha256": "3d8f6a46521b875f063887aa6fafc89fd957450bf85c9dfd6b535b1ba837988d"
+  },
+  {
+   "path": "CrypPlugins\\zh-CN\\TEA.resources.dll",
+   "bytes": 5120,
+   "sha256": "913ed8d59412d000fd7a9b17f89f2d8b9fd31d66b2c000d245ca32f8f5f65bd0"
+  },
+  {
+   "path": "CrypPlugins\\zh-CN\\TextInput.resources.dll",
+   "bytes": 4096,
+   "sha256": "2d4e81521cb0ce5e062443c07ee3479f0ddcbb0f935d7d88e24fb466378d039e"
+  },
+  {
+   "path": "CrypPlugins\\zh-CN\\TextOutput.resources.dll",
+   "bytes": 5632,
+   "sha256": "26e7784b8327e462efbbe7a0e5cb1a282ed536dea44d86be7cfc61f6d9e0ed9b"
+  },
+  {
+   "path": "CrypPlugins\\zh-CN\\TextSteganography.resources.dll",
+   "bytes": 4608,
+   "sha256": "2d12cc70f1b9a4b8892ec6444ccc58019ab5fa6e4a76eeed67bad338b0c94770"
+  },
+  {
+   "path": "CrypPlugins\\zh-CN\\Tiger.resources.dll",
+   "bytes": 3584,
+   "sha256": "04ed078cc59bb7ccf4011b63f308fd774d48871267bcafac3768cbb955b9af70"
+  },
+  {
+   "path": "CrypPlugins\\zh-CN\\Transcriptor.resources.dll",
+   "bytes": 4608,
+   "sha256": "d15e8c400deb21be89d97f45dbfe0ddace7a4824c416e1fcc88d62c3ab39731c"
+  },
+  {
+   "path": "CrypPlugins\\zh-CN\\Transposition.resources.dll",
+   "bytes": 5120,
+   "sha256": "771fd59c7c962a1ec4710e6178cb64d5bd3bf2e916562ebd496c45a893a33c80"
+  },
+  {
+   "path": "CrypPlugins\\zh-CN\\TranspositionAnalyser.resources.dll",
+   "bytes": 7168,
+   "sha256": "ec3d7d279e7c1bf1947ada606692732d336554b487bd60660a0e12fbe932a027"
+  },
+  {
+   "path": "CrypPlugins\\zh-CN\\TrifidCipher.resources.dll",
+   "bytes": 3584,
+   "sha256": "3e7fe981468b4bade4ed894c46d1c2979f7a0891d46fbc3f97e4eae5fd624b99"
+  },
+  {
+   "path": "CrypPlugins\\zh-CN\\Trivium.resources.dll",
+   "bytes": 4096,
+   "sha256": "bff050c04a7ad5bea79b41365361cb0952fedf4b1084c624d24cfdb9a9bf41bd"
+  },
+  {
+   "path": "CrypPlugins\\zh-CN\\Typex.resources.dll",
+   "bytes": 5632,
+   "sha256": "bc90e6a49c252779136d6f166cd7118aa3aa3e84d0d90b326f8ff8ddddf30b88"
+  },
+  {
+   "path": "CrypPlugins\\zh-CN\\VIC.resources.dll",
+   "bytes": 4608,
+   "sha256": "03f890a138b60a393b6a160507ee4bf4052bd63f7480a7f8bccea436ae295cf4"
+  },
+  {
+   "path": "CrypPlugins\\zh-CN\\Variable.resources.dll",
+   "bytes": 3584,
+   "sha256": "4ab9bbf9e10f0db4e0df23e635ea34dd6b5d686aa6d6a019c80cfd5448b2c166"
+  },
+  {
+   "path": "CrypPlugins\\zh-CN\\Vernam.resources.dll",
+   "bytes": 3584,
+   "sha256": "990894dd9ebd2b8f099beb48816a51cf1dac589dcd5bf75542b19511e736b62a"
+  },
+  {
+   "path": "CrypPlugins\\zh-CN\\Vigenere.resources.dll",
+   "bytes": 5632,
+   "sha256": "2193ee89ede72ebaedfaa596813aeaadadc37b1b739f4821ce64ab4a24e6a6e0"
+  },
+  {
+   "path": "CrypPlugins\\zh-CN\\VigenereAnalyzer.resources.dll",
+   "bytes": 6656,
+   "sha256": "d68a4393cce0f6c26badc230e780f4cbe23fe7b8c04d2792981fb36b9d747086"
+  },
+  {
+   "path": "CrypPlugins\\zh-CN\\VisualCryptography.resources.dll",
+   "bytes": 4608,
+   "sha256": "1efabe2536a1fe53754f9dd9f089cd5076bee45dda39dd3c3d179ef8c7672302"
+  },
+  {
+   "path": "CrypPlugins\\zh-CN\\VisualDecoder.resources.dll",
+   "bytes": 3584,
+   "sha256": "2a024e8685dcdac50be1b8ba8f4f4f34055a092d207d6e7c3c2aa7d4cb111bca"
+  },
+  {
+   "path": "CrypPlugins\\zh-CN\\VisualEncoder.resources.dll",
+   "bytes": 7168,
+   "sha256": "5dcf12b97ab2aaac1815c0d0e9407c6d2bf47ef626015f24432aa7a7741c7f7e"
+  },
+  {
+   "path": "CrypPlugins\\zh-CN\\WEP.resources.dll",
+   "bytes": 3584,
+   "sha256": "b9c850ca7e8675b8fbbc98cf0f58345418ed20beec8b28ae686541089b383d76"
+  },
+  {
+   "path": "CrypPlugins\\zh-CN\\WEPAttacks.resources.dll",
+   "bytes": 5120,
+   "sha256": "7751bc7e3309c125f5f6e054a70d683e28b6fc2bf55e51646d1d84cde89f4a5b"
+  },
+  {
+   "path": "CrypPlugins\\zh-CN\\WatermarkCreator.resources.dll",
+   "bytes": 6144,
+   "sha256": "c28bb8e2c6e039412c66ddeaf42c9b0d30c5312e067d93187e5b98ca1bb2733e"
+  },
+  {
+   "path": "CrypPlugins\\zh-CN\\WebCam.resources.dll",
+   "bytes": 4608,
+   "sha256": "de5732141bb36e88aba9b8f3fb65196cc3e04da3e282ffa9befaaec1468880f3"
+  },
+  {
+   "path": "CrypPlugins\\zh-CN\\Whirlpool.resources.dll",
+   "bytes": 3584,
+   "sha256": "3ce1b790f4d67f1e91020d7ac8f74d75e10df022627ce5e0b032c3123fe91949"
+  },
+  {
+   "path": "CrypPlugins\\zh-CN\\Wizard.resources.dll",
+   "bytes": 5632,
+   "sha256": "ccd07021b50e5c399ef2e0f7c65aed3eb4e9d74e8072c6acabde9e99e156c361"
+  },
+  {
+   "path": "CrypPlugins\\zh-CN\\WordPatterns.resources.dll",
+   "bytes": 4096,
+   "sha256": "4681c3fe2bcc2b644fe9f7b2fb124ddb76a3e6b28547993d7224ebeb9bcf39f6"
+  },
+  {
+   "path": "CrypPlugins\\zh-CN\\WorkspaceManager.resources.dll",
+   "bytes": 15360,
+   "sha256": "6c20045e59339aaab5e98a484e13ae338f38286cbb094061739ee412eb7428cb"
+  },
+  {
+   "path": "CrypPlugins\\zh-CN\\XOR.resources.dll",
+   "bytes": 3584,
+   "sha256": "ec2851c2afeb0468fe3cef35aa5f32b0e80f13f69ab84f374ca8e8db1d34ef58"
+  },
+  {
+   "path": "CrypPlugins\\zh-CN\\Yao1.resources.dll",
+   "bytes": 3072,
+   "sha256": "aca70769f7cfc8ad2d07b45002f39a26b3a43b74337388d5cbb116b238f191f2"
+  },
+  {
+   "path": "CrypPlugins\\zh-CN\\Yao2.resources.dll",
+   "bytes": 3072,
+   "sha256": "2c65e54a32831877bd11dc15c533497410a52b35824697869b598aa4947910fe"
+  },
+  {
+   "path": "CrypPlugins\\zh-CN\\Yao3.resources.dll",
+   "bytes": 3072,
+   "sha256": "a49e987fe43f596037843350111e33a3639d684dea6039873088b9aefe6c802f"
+  },
+  {
+   "path": "CrypPlugins\\zh-CN\\ZeroKnowledgeChecked.resources.dll",
+   "bytes": 3584,
+   "sha256": "f8af5e5e8778e9c16c9fec40a07d0d0ae62855e9b291b0f743856c0f6b3082b6"
+  },
+  {
+   "path": "CrypPlugins\\zh-CN\\ZeroKnowledgeChecker.resources.dll",
+   "bytes": 4096,
+   "sha256": "a54e9f53d6c62f279ec38a8458dc6b11adee7300e6101801a57bcf4a2824c7bd"
+  },
+  {
+   "path": "Lib\\zh-CN\\HexBox.resources.dll",
+   "bytes": 3072,
+   "sha256": "e06780f1cdfa2fdf7edb031e04c480800e3ace261d6d13f39ce1c7765f1139b8"
+  },
+  {
+   "path": "zh-CN\\CrypCore.resources.dll",
+   "bytes": 3584,
+   "sha256": "0c49861ce27d6e0d46f28f723008611e79db20a93a6fb8e8214f2996d0eda18b"
+  },
+  {
+   "path": "zh-CN\\CrypPluginBase.resources.dll",
+   "bytes": 4096,
+   "sha256": "421cbf3038b2dcf9a741729053cb21eba73b984ae3211ddc11a91623e4564da1"
+  },
+  {
+   "path": "zh-CN\\CrypWin.resources.dll",
+   "bytes": 72192,
+   "sha256": "73f0e6f92f30ed42f446e4ee4eecf5500793aa1056fde41743cd3f4ad9890ed1"
+  },
+  {
+   "path": "zh-CN\\OnlineDocumentationGenerator.resources.dll",
+   "bytes": 12288,
+   "sha256": "27c9bcce7fc1989af6ac49c3d64946752f57a1ceacaa1fbccdab866f4676c4c4"
+  },
+  {
+   "path": "zh-CN\\Startcenter.resources.dll",
+   "bytes": 6144,
+   "sha256": "870df5b1e3f9827d051d6373a7420e0d9f89b575e4dbda3aa329ef7aa230533c"
+  },
+  {
+   "path": "zh-CN\\WorkspaceManagerModel.resources.dll",
+   "bytes": 11264,
+   "sha256": "8ea42b625f32c19c41a6f6e9be940a626078597b40ea11ce65c06c19725fec4a"
+  }
+ ]
+}
